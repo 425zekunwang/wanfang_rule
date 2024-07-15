@@ -34,7 +34,7 @@ SPRINT 研究纳入9361 例收缩压$\geqslant130\mathrm{mmHg}$、年龄50 岁�
 筛查期拟入组收缩压$150\mathrm{mmHg}$ 且$<180\mathrm{mmHg}$，或正在服用降压药的高血压患者。  
 （2）导入期入选和排除标准  
 # 1）入选标准  
-$\textcircled{1}$ 年龄 $\geqslant60$  岁的高血压患者。 $\textcircled{2}$ 当前未服用降压药者，收 缩压$\geqslant150\mathrm{mmHg}$，同时收缩压$<180\mathrm{mmHg}$。$\textcircled{3}$当前正在接受降压药治疗的患者，已经遵医嘱服用末次降压药，并符合以下血压标准：规律服用1 类降压药，收缩压为$140\sim170\mathrm{mmHg}$；规律服用 2  类降压药，收缩压为 $130\sim160\mathrm{mmHg}$ ；规律服用 3  类降 压药，收缩压为$130\sim150\mathrm{mmHg}$（注：服用复方降压药的患者，如果复方中两类降压药剂量都达到或超过常用降压推荐剂量，按两种计算）；$\textcircled{4}$血$\mathrm{Hcy}\geqslant10\;\upmu\mathrm{mol}/\mathrm{L}$；或正在服用依叶；$\mathcal{S}$签署知情同意书。  
+$\textcircled{1}$ 年龄 $\geqslant60$  岁的高血压患者。 $\textcircled{2}$ 当前未服用降压药者，收 缩压$\geqslant150\mathrm{mmHg}$，同时收缩压$<180\mathrm{mmHg}$。$\textcircled{3}$当前正在接受降压药治疗的患者，已经遵医嘱服用末次降压药，并符合以下血压标准：规律服用1 类降压药，收缩压为$140\sim170\mathrm{mmHg}$；规律服用 2  类降压药，收缩压为 $130\sim160\mathrm{mmHg}$ ；规律服用 3  类降 压药，收缩压为$130\sim150\mathrm{mmHg}$（注：服用复方降压药的患者，如果复方中两类降压药剂量都达到或超过常用降压推荐剂量，按两种计算）；$\textcircled{4}$血$\mathrm{Hcy}\geqslant10\;mu\mathrm{mol}/\mathrm{L}$；或正在服用依叶；$\mathcal{S}$签署知情同意书。  
 注：患者同时符合上述条件中$\textcircled{1}$、$\textcircled{4}$、$\mathcal{S}$并符合$\textcircled{2}$、$\textcircled{3}$中任一项方符合入选标准。  
 # 2）排除标准  
 $\textcircled{1}$ 既往发生过诊断明确的脑卒中、心肌梗死、心力衰竭、再 血管化、恶性肿瘤；$\textcircled{2}$确诊的继发性高血压；$\textcircled{3}$患者正在接受透析或被诊断为终末期肾病； $\textcircled{4}$ 已知患有先天或后天性器质性心脏 病者；$\mathcal{S}$严重躯体系统性疾病，估计无法完成随访者；$\textcircled{6}$既往服用依叶或其他ACEI 类药物发生过明显不能耐受的不良反应者；$\textcircled{\scriptsize{2}}$存在异常体征和严重躯体疾病，根据研究者的判断，不适合参加研究的患者；$\circledast$存在以下任何有可能会限制患者依从性或妨碍资料收集的情况：痴呆、严重精神障碍，无法表达意愿者、酒精或药物滥用、计划5 年内迁移到外地、既往服降压药不规律，预计参加试验后不能规律服药；$\textcircled{9}$已有居住在一起的家人（如配偶一方）参加该试验；$\circledcirc$不愿参加，不愿或不能更改已有服药方案者；正在参加其他临床试验者。  

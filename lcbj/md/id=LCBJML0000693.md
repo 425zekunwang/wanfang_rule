@@ -21,21 +21,21 @@ ETDRS 指南总结：
 1) Focal photo coa gul atl on treatment of individual microaneurysms that fill with fluorescein and/or leak, as well as other points of leakage such as intraretinal microvascular abnormalities or short capillary segments.  
 2) Grid laser treatment of areas of thickened retina showing diffuse fluorescein leakage and/or capillary dropout.  
 （1）Focal 光凝  
-1）距离黄斑中心$500\sim3000\upmu\mathrm{m}$范围内，直接针对视网膜增厚区的微动脉瘤进行光凝。  
-2）首轮上述光凝后，若侵犯黄斑中心的水肿持续存在，可在距离黄斑中心$300\sim500\upmu\mathrm{m}$范围内，对视网膜增厚区的微动脉瘤进行激光光凝。  
-3）光斑大小：$50\sim60\upmu\mathrm{m}$，时间：$0.05\sim0.10\mathrm{s}$，波长：绿光-黄光。  
+1）距离黄斑中心$500\sim3000mu\mathrm{m}$范围内，直接针对视网膜增厚区的微动脉瘤进行光凝。  
+2）首轮上述光凝后，若侵犯黄斑中心的水肿持续存在，可在距离黄斑中心$300\sim500mu\mathrm{m}$范围内，对视网膜增厚区的微动脉瘤进行激光光凝。  
+3）光斑大小：$50\sim60mu\mathrm{m}$，时间：$0.05\sim0.10\mathrm{s}$，波长：绿光-黄光。  
 4）激光光斑性状：微动脉瘤颜色改变或在微动脉瘤下至少 有灰色烧灼反应。  
 （2）Grid 光凝  
-1）距离黄斑中心上方、下方、鼻侧 $500\sim3000\upmu\mathrm{m}$ ，颞侧 $500\sim3500\upmu\mathrm{m}$，无微动脉瘤区域进行光凝。  
+1）距离黄斑中心上方、下方、鼻侧 $500\sim3000mu\mathrm{m}$ ，颞侧 $500\sim3500mu\mathrm{m}$，无微动脉瘤区域进行光凝。  
 2）激光斑之间的间隔为激光斑宽度的$2\sim3$倍。  
-3）光斑大小：$50\sim60\upmu\mathrm{m}$，时间：$0.05\sim0.10\mathrm{s}$。(3）轻度黄斑grid光凝（mildmaculargridlaser） 1）间隔$2\sim3$个光斑距离，无论微动脉瘤是否存在。2）共计$200\sim300$个$50\upmu\mathrm{m}$光斑 （包括未增厚的视网膜）。  
+3）光斑大小：$50\sim60mu\mathrm{m}$，时间：$0.05\sim0.10\mathrm{s}$。(3）轻度黄斑grid光凝（mildmaculargridlaser） 1）间隔$2\sim3$个光斑距离，无论微动脉瘤是否存在。2）共计$200\sim300$个$50mu\mathrm{m}$光斑 （包括未增厚的视网膜）。  
 # .国际眼科（ICO）2014年DME治疗指南  
 DME治疗方案取决于黄斑中心凹是否受累及视力情况，OCT提示黄斑中心凹受累且视力低于0.5者，首选抗VEGF治疗；黄斑中心凹未受累且视力大于0.5者选用局部激光光凝治疗。  
 ICO 推荐的 DME 治疗流程见图 33。  
 # 34.英国皇家医学院（RCO）2012年DME治疗指南  
 （1）局部或格栅光凝  
 遵循 ETDRS 原则。  
-格栅光凝：必要时光斑内圈距中心凹可调至$300\upmu\mathrm{m}$。推荐subthreshold micropulse diode laser therapy 。  
+格栅光凝：必要时光斑内圈距中心凹可调至$300mu\mathrm{m}$。推荐subthreshold micropulse diode laser therapy 。  
 (2）糖皮质激素  
 依据DRCR-net3年结果。推荐IVTA/光凝，关注 Ozurdex、ILUVIEN 并发症。  
 （3）抗VEGF药物  

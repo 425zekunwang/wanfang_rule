@@ -9,5 +9,5 @@ MDS 的动物模型主要包括两大类：其一是通过基因敲除或敲入�
 # MDS 是一种骨髓衰竭性疾病  
 MDS 的免疫学异常近年来被阐释得愈发清晰。已经得到的证据有：$\textcircled{1}$MDS 患者的T 细胞，主要是${\mathrm{CD}}8^{+}$ T 细胞在体外抑制骨髓粒细胞- 巨噬细胞集落形成单位（CFU-GM）和红系集落形成单位（CFU-E）的生长。$\textcircled{2}$MDS 骨髓细胞与环孢霉素（CsA）共同孵育或去除其中T 细胞可增加祖细胞集落产率。$\textcircled{3}$MDS 患者体内$\mathrm{CD4^{+}\ T}$细胞多克隆扩增，$\mathrm{CD8^{+}\,T}$ 细胞寡克隆/ 单克隆扩增，调节性T 细胞（Treg）细胞（$\mathrm{{CD4^{+}}}$，$\mathrm{CD25^{+}}$，${\mathrm{POCNP}}3^{+}$）数量在较低危组 MDS  患者显著减少，而在较高危组患者则显著增 多。$\textcircled{4}$对${}+8$ 染色体异常MDS 患者采用FISH 技术证实T 细胞在体外抑制CFU-GM 和CFU-E 的生长几乎仅针对$\cdot+~8$ 的集落。随后研究证实$+\;8\ \mathrm{MDS}$ 克隆细胞表面高表达WT1 抗原，单克隆或寡克隆扩增的T 细胞对WT1 抗原有特异性，通过识别高表达WT1 抗原的MDS 克隆细胞而发起免疫攻击，同时也误伤旁观者（bystander）MDS 骨髓中残存的正常干细胞，最终导致出现骨髓衰竭和外周血细胞减少。$\mathcal{S}$合并自身免疫异常的MDS 患者占MDS 患者的$10\%\sim18.5\%$。$\textcircled{6}$某些MDS 患者用免疫抑制剂
 （ATG、CsA）治疗有效。$\textcircled{\scriptsize{2}}$MDS 患者存在髓系衍生抑制性细胞
-（myeloid-derived suppressor cells，MDSCs）扩增，MDSCs 通过产生IL-10 和TGF-$\cdot\upbeta$ 从而抑制造血。$\circledast$MDS 患者也存在自然杀伤细胞（natural killer cell，NK）的功能受损。  
+（myeloid-derived suppressor cells，MDSCs）扩增，MDSCs 通过产生IL-10 和TGF-$\cdoteta$ 从而抑制造血。$\circledast$MDS 患者也存在自然杀伤细胞（natural killer cell，NK）的功能受损。  
 MDS 骨髓衰竭主要有两层含义：其一是指MDS 恶性克隆“无效造血”；其二是指MDS 患者骨髓由于MDS 克隆细胞而发起免疫攻击，误伤旁观者MDS 患者骨髓中残存的正常干细胞，导致其数量显著减少。  

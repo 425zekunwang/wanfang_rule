@@ -106,5 +106,5 @@ $\textcircled{2}$ 前白蛋白（PA，转甲状腺素）：其半衰期（$t_{1/
 $\textcircled{3}$ 转铁蛋白：也可评估IBD 患儿的营养状况，但不比ALB和PA 有优势，易受复杂因素的影响。  
 $\textcircled{4}$ 另外，IBD 患儿发生营养不良时，可伴有贫血、低血糖、淋巴细胞计数下降，血清维生素A、维生素D 等缺乏。  
 儿童HGB 界值以WHO 制定的贫血诊断标准作为参考值，海拔调整后的贫血诊断标准为：原诊断标准$\times\left[1\!+\!4\%\right.\times$ 调查点海拔高度（m）/1000]，见表40。  
-维生素A 缺乏：血浆维生素A 浓度$<100\upmu\mathrm{g/L}$；维生素A 亚临床缺乏：$100\upmu\mathrm{g/L}\leqslant$血浆维生素$\mathrm{A}<200\upmu\mathrm{g/L}$；维生素D 缺乏：血清25（OH）$\mathrm{D}_{3}<50\mathrm{nmol/L}$（$^{\prime}20\mathrm{ng}/\mathrm{m}1$）；维生素D不足：52 nmol/L（$.21\mathrm{{ng}/\mathrm{{m}}l}$）≤血清25（OH）$\mathrm{D}_{3}<72\mathrm{nmol/L}$（$\left(29\mathrm{ng}/\mathrm{ml}\right)$）。  
+维生素A 缺乏：血浆维生素A 浓度$<100mu\mathrm{g/L}$；维生素A 亚临床缺乏：$100mu\mathrm{g/L}\leqslant$血浆维生素$\mathrm{A}<200mu\mathrm{g/L}$；维生素D 缺乏：血清25（OH）$\mathrm{D}_{3}<50\mathrm{nmol/L}$（$^{\prime}20\mathrm{ng}/\mathrm{m}1$）；维生素D不足：52 nmol/L（$.21\mathrm{{ng}/\mathrm{{m}}l}$）≤血清25（OH）$\mathrm{D}_{3}<72\mathrm{nmol/L}$（$\left(29\mathrm{ng}/\mathrm{ml}\right)$）。  
 另外，有条件单位可用生物电阻抗等技术测定较大患儿的体内总脂肪量和水分等，有助于评估其营养状况。对于有骨病危险的患儿，采用影像学测定骨密度和骨矿物质含量。  

@@ -1,8 +1,8 @@
 # 骨髓增生异常综合征的新治疗  
 # 56. 骨髓增生异常综合征的分子靶向治疗  
 如前所述，来那度胺已是5q- 综合征患者的首选治疗，去甲基化药物阿扎胞苷和地西他滨已是MDS 一线治疗药物，前面已作介绍。去乙酰化酶抑制剂，如valproic、vorinostat、panobinostat  等，单药或联合治疗 MDS  的已有临床试验均未获得 阳性结果。尚处于临床试验阶段的靶向治疗药物还有以下几种。  
-（1）TGF-$\cdot\upbeta$ 信号途径抑制剂  
-MDS  患者 TGF- $\cdot\upbeta$  血清水平增高， TGF- $\cdot\upbeta$  信号转导是通过 SMAD 蛋白磷酸化来实现的。免疫组织化学染色证实MDS 激活/ 磷酸化SMAD2 高表达。TGF-β/SMAD 途径的靶向治疗药物有sotatercept（ACE-011）和luspatercept（ACE-536）。sotatercept和luspatercept 促进晚期EPO 非依赖性红系细胞增生和红细胞成熟。2 期luspatercept 临床试验（ClinicalTrials.gov:NCT  
+（1）TGF-$\cdoteta$ 信号途径抑制剂  
+MDS  患者 TGF- $\cdoteta$  血清水平增高， TGF- $\cdoteta$  信号转导是通过 SMAD 蛋白磷酸化来实现的。免疫组织化学染色证实MDS 激活/ 磷酸化SMAD2 高表达。TGF-β/SMAD 途径的靶向治疗药物有sotatercept（ACE-011）和luspatercept（ACE-536）。sotatercept和luspatercept 促进晚期EPO 非依赖性红系细胞增生和红细胞成熟。2 期luspatercept 临床试验（ClinicalTrials.gov:NCT  
 01749514）结果表明，SF3B1 突变阳性患者红系改善为$60\%$，而SF3B1 突变阴性患者仅为$11\%$ 。  
 （2）PI3/polo-like 激酶抑制剂  
 Rigosertib 是一小分子PI3/polo-like 激酶抑制剂，2016 年发表了该药Ⅲ期临床试验（ClinicalTrials.gov:NCT 01241500）结果。患者入组标准为在过去2 年内应用去甲基化药物治疗失败的RAEB-1、RAEB-2、RAEB-t 和CMML 患者。299 例患者按$2\ :\ 1$随机分组为Rigosertib治疗组（199例）和最佳支持治疗组（100例）。Rigosertib 给药方案为$1800\mathrm{mg}/24\mathrm{h}$，持续静脉输注72h，隔周。Rigosertib 组和最佳支持治疗患者的中位生存期分别为8.2 个月（$95\%$ CI：$6.1\sim10.1$）和5.9 个月（$95\%\;C I$：$4.1\sim9.3$），二者无 显著性统计学差异（$.H R{=}0.87$，$95\%$ CI：$0.67\sim1.14$；$\scriptstyle P=0.33$）。与支持治疗相比，Rigosertib 治疗的3 级贫血、血小板减少、中性粒细胞减少和肺炎发生率明显增高。Rigosertib 在MDS 治疗的确切作用尚待另一正在进行的临床试验（ClinicalTrials.gov:NCT 02562443）来加以回答。  
