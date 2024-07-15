@@ -20,7 +20,7 @@
 安西龙。长效激素包括地塞米松、倍他米松等，如地塞米松，抗感染效力强，作用时间长，但对下丘脑- 垂体- 肾上腺轴抑制（HPA 轴）明显，不适宜长疗程用药。倍他米松也是长效激素，主要用于局部封闭，现常用的是复方倍他米松。在突发性聋治疗中常用的药物一般为中效、长效的糖皮质激素，包括泼尼松、甲强龙、地塞米松、倍他米松等。  
 根据原卫生部2011 年发布的《糖皮质激素类药物临床应用指导原则》给药剂量：生理剂量和药理剂量的糖皮质激素具有不同的作用，应按不同治疗目的选择剂量。一般认为给药剂量
 （以泼尼松为例）可分为以下几种情况：$\textcircled{1}$长期服用维持剂量：
-$2.5\sim15.0\mathrm{mg/}$（kg·d）；$\textcircled{2}$小剂量：$<\,0.5\mathrm{mg/\Omega}\,(\mathrm{kg}\cdot\mathrm{d})$）；$\textcircled{3}$中等剂量：$0.5\sim1.0\mathrm{mg/\Omega(kg\cdotd)}$）；$\textcircled{4}$大剂量：$>1.0\mathrm{mg/\Omega(kg\cdotd)}$）；
+$2.5\sim15.0\mathrm{mg/}$（kg·d）；$\textcircled{2}$小剂量：$<\,0.5\mathrm{mg/\Omega}\,(\mathrm{kg}\cdot\mathrm{d})$）；$\textcircled{3}$中等剂量：$0.5 \sim 1.0 \ \mathrm{mg/\Omega(kg \cdot d)}$）；$\textcircled{4}$大剂量：$>1.0\mathrm{mg/\Omega(kg \cdot d)}$）；
 $\mathcal{S}$冲击剂量：（以甲泼尼龙为例）$7.5\sim30.0\mathrm{m}/\mathrm{~}(\mathrm{kg}\cdot\mathrm{d})$）。疗程：
 $\textcircled{1}$冲击治疗：疗程多$<5$ 天。$\textcircled{2}$短程治疗：疗程$<\,1$ 个月，包括应激性治疗。$\textcircled{3}$中程治疗：疗程3 个月以内。  
 常用糖皮质激素之间的等效剂量换算、抗感染作用强度、与受体的亲和力、药物半衰期、作用持续时间、水钠潴留强度、HPA 轴抑制时间等（表4）。根据每种药物的特点、不同的给药方式如何选择最佳的药物及剂量，将在下文中详述。  
