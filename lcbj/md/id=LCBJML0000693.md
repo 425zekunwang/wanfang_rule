@@ -1,8 +1,8 @@
 # 糖尿病黄斑水肿治疗指南解读  
 # 31.DME治疗指南的制定及遵循的原则  
 由于DME治疗的复杂性及长期性，其诊疗观念的理解及治疗方法的相对统一显得特别重要，近几年各国在治疗DR及DME方面撰写了许多诊疗指南（表10)，这些指南的制定遵循的原则包括两个方面：$\textcircled{1}$在糖尿病视网膜病变治疗的基础上制定DME治疗指南。$\textcircled{2}$指南制定过程中参考了大量的前瞻性、双盲及多中心临床研究的循证医学文献，依据这些研究结果制定出DME诊疗指南。  
-1） Photocoagulation for diabetic macular edema. EarlyTreatment Diabetic Retinopathy Study report number 1. Early Treatment Diabetic Retinopathy Study research group. Arch Ophthalmol，1985，103 （12）: 1796-1806.  
-2） Treatment techniques and clinical guidelines for photo coagulation of diabetic macular edema. Early Treatment Diabetic Retinopathy Study Report Number 2. Early Treatment Diabetic Retinopathy Study Research Group. Ophthalmology, 1987， 94(7) ： 761-774.  
+1） Photocoagulation for diabetic macular edema. EarlyTreatment Diabetic Retinopathy Study report number 1. Early Treatment Diabetic Retinopathy Study research gro. Arch Ophthalmol，1985，103 （12）: 1796-1806.  
+2） Treatment techniques and clinical guidelines for photo coagulation of diabetic macular edema. Early Treatment Diabetic Retinopathy Study Report Number 2. Early Treatment Diabetic Retinopathy Study Research Gro. Ophthalmology, 1987， 94(7) ： 761-774.  
 3） Luttrull JK, Dorin G. Subthreshold diode micropulse laserphotocoagulation （SDM）as invisible retinal phototherapy fordiabetic macular edema: a review. Curr Diabetes Rev, 2012, 8 (4): 274-284.  
 # （2）糖皮质激素治疗DME参考的主要循证医学文献  
 1） Audren F, Lecleire-Collet A, Erginay A, et al. Intravitrealtriamcinolone acetonide for diffuse diabetic macular edema: phase 2 trial comparing$4\:\mathrm{mg}$vs 2 mg.Am J Ophthalmol, 2006,142 (5） :794-799.  
@@ -14,7 +14,7 @@
 1） Nguyen QD, Shah SM,Khwaja AA, et al. Two-yearoutcomes of the ranibizumab for edema of the macula in diabetes (READ-2）study.Ophthalmology，2010，117 （11）:2146-2151.  
 2） Massin P, Bandello F, Garweg JG, et al. Safety and efficacy of ranibizumab in diabetic macular edema (RESOLVE Study）:a 12-month,randomized,controlled,double-masked, multicenter phase II study. Diabetes Care，2010，33 （11）：2399-2405.  
 3）Mitchell P,Bandello F,Schmidt-Erfurth U,et al. The RESTORE study: ranibizumab monotherapy or combined with laser versus laser monotherapy for diabeticmacular edema. Ophthalmology， 2011， 118 （4）： 615-625.  
-4）Elman MJ,Bressler NM,Qin H,et al. Expanded 2-year follow-up of ranibizumab plus prompt or deferred laser or triamcinolone plus prompt laser for diabetic macular edema. Ophthalmology, 2011， 118 (4）：609-614.  
+4）Elman MJ,Bressler NM,Qin H,et al. Expanded 2-year follow- of ranibizumab plus prompt or deferred laser or triamcinolone plus prompt laser for diabetic macular edema. Ophthalmology, 2011， 118 (4）：609-614.  
 注：AAO：美国眼科学会；RCO：英国皇家眼科学会；CDA：加拿大糖尿病协会；NHMRC：澳大利亚国家健康医疗研究署；ICO：国际眼科委员会；DMETGWG：DME治疗指南工作组。  
 # 2.ETDRS激光DME治疗指南  
 ETDRS 指南总结：  

@@ -17,6 +17,6 @@
 彩插8　小梁网旁路引流支架iStent（见正文第153 页）  
 彩插9　Hydrus 微支架（见正文第155 页）  
 彩插10　增加脉络膜途径引流的植入装置（见正文第157 页）  
-注： A ： gold shunt （ GMSplus $^{+}$ ； SOLX Ltd. ， Waltham ， MA ， US ） ； B ： polypropylene  shunt （ Aquashunt ； OPKO Health ， Miami ， FL ， US ） ； C ： CyPass micro-shunt （ Transcend  Medical，Menlo Park，CA，US）；D：iStent Supra（Glaukos Corporation，Laguna Hills，CA，USA）；E：STARﬂo（iSTAR Medical，Isnes，Belgium）。  
+注： A ： gold shunt （ GMSplus $^{+}$ ； SOLX Ltd. ， Waltham ， MA ， US ） ； B ： polypropylene  shunt （ Aquashunt ； OPKO Health ， Miami ， FL ， US ） ； C ： CyPass micro-shunt （ Transcend  Medical，Menlo Park，CA，US）；D：iStent Sra（Glaukos Corporation，Laguna Hills，CA，USA）；E：STARﬂo（iSTAR Medical，Isnes，Belgium）。  
 彩插11　XEN 凝胶支架和推注器（Allergan，Dublin，Ireland）（见正文第159 页）  
 彩插12　InnFocusMicroShunt 示意（见正文第160 页）  

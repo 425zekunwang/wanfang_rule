@@ -9,7 +9,7 @@
 彩插1中国癌症发病率和死亡率统计  
 注：引|自 Chen W,Zheng R,Zeng H,et al.The incidence and mortality of major cancers in China, 2012.Chin J Cancer, 2016， 35 (1） ：73.  
 彩插2与癌症显著相关的蛋白聚类  
-注：引丨 自 Niu B，Scott AD，Sengupta S，et al.Protein-structure-guided discovery of functional mutations across 19 cancer types.Nat Genet, 2016, 48 (8） ： 827-837.  
+注：引丨 自 Niu B，Scott AD，Sengta S，et al.Protein-structure-guided discovery of functional mutations across 19 cancer types.Nat Genet, 2016, 48 (8） ： 827-837.  
 彩插3结直肠癌中的肿瘤突变负荷情况  
 注：引|自 Stadler ZK，Battaglin F，Middha S，et al.Reliable Detection of Mismatch Repair Deficiency in Colorectal Cancers Using Mutational Load in Next-Generation Sequencing Panels.J Clin Oncol, 2016，34(18) ：2141-2147.  
 彩插4腺苷酸激酶hCINAP促进结直肠癌干细胞中的Warburg效应  

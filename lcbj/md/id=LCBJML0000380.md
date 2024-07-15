@@ -1,11 +1,12 @@
 54. 1992 年的rt-PA 剂量探索性研究为1995 年NINDS 研究和标准剂量的选择提供了基石，但进一步剂量比较的试验计划在美国未获得批准  
-NINDS  研究组 （ the National Institute of Neurological Disorders  and Stroke rt-PA Stroke Study Group ）选择 $0.9\mathrm{mg/kg}$  剂量的依据， 主要是两个前瞻性开放性剂量探索性研究（表42）。在第一个研究中，对发病90 分钟内的AIS 患者静脉给予重组组织型纤溶酶原激活剂（recombinant human tissue-type plasiminogen，rt-PA）溶栓治疗，剂量分别为 $0.35\mathrm{mg/kg}\big(n{=}12\big)\,,0.60\mathrm{mg/kg}\big(n{=}12\big)\,,0.85\mathrm{mg/s}$ kg（$(n{=}30)$）、$0.95\mathrm{mg/kg}$（$\backslash n{=}25$）和$1.08\mathrm{mg/kg}\ \left(n{=}1\right)$）。结果发现：24 小时神经功能结局改善的比例在$0.85\mathrm{mg/kg}$ 组（$.55\%$）高于$0.60\mathrm{mg/kg}$ 组（$(33\%)$），在剂量低于$0.95\mathrm{mg/kg}$ 时，没有sICH 发生。在第二个研究中，对发病$90\sim180$ 分钟内的AIS 患者给予静脉rt-PA 溶栓治疗，剂量分别为$0.60\mathrm{mg/kg}$（$\acute{n}{=}8$），$0.85\mathrm{mg/kg}$ 中国医学临床百家  
+NINDS  研究组 （ the National Institute of Neurological Disorders  and Stroke rt-PA Stroke Study Gro ）选择 $0.9\mathrm{mg/kg}$  剂量的依据， 主要是两个前瞻性开放性剂量探索性研究（表42）。在第一个研究中，对发病90 分钟内的AIS 患者静脉给予重组组织型纤溶酶原激活剂（recombinant human tissue-type plasiminogen，rt-PA）溶栓治疗，剂量分别为 $0.35\mathrm{mg/kg}\big(n{=}12\big)\,,0.60\mathrm{mg/kg}\big(n{=}12\big)\,,0.85\mathrm{mg/s}$ kg（$(n{=}30)$）、$0.95\mathrm{mg/kg}$（$\backslash n{=}25$）和$1.08\mathrm{mg/kg}\ \left(n{=}1\right)$）。结果发现：24 小时神经功能结局改善的比例在$0.85\mathrm{mg/kg}$ 组（$.55\%$）高于$0.60\mathrm{mg/kg}$ 组（$(33\%)$），在剂量低于$0.95\mathrm{mg/kg}$ 时，没有sICH 发生。在第二个研究中，对发病$90\sim180$ 分钟内的AIS 患者给予静脉rt-PA 溶栓治疗，剂量分别为$0.60\mathrm{mg/kg}$（$\acute{n}{=}8$），$0.85\mathrm{mg/kg}$ 中国医学临床百家  
 PA 溶栓试验和观察性研究- 表42　标准剂量rt
 续表
 （$(n{=}6\mid$）和$0.95\mathrm{mg/kg}$（$\backslash n=6\backslash$）。结果发现：在剂量$0.85\mathrm{mg/kg}$ 和
 $0.95\mathrm{mg/kg}$ 组各有1 例sICH 发生，2 例患者结局为死亡。可以看出，上述的队列研究样本量很小（总例数仅为100 例），因此不能得出可靠的最佳剂量的结论。1995 年发表的ECASSⅠ试验增加了治疗组rt-PA 剂量，在发病$<\,6$ 小时内给予rt-PA 溶栓治疗，采用$1.1\mathrm{mg/kg}$ 剂量，结果提示在某些亚组（中到重度神经功能缺损，同时基线CT 未显示较大面积的低密度）获益，但严重的脑实质出血比例增加。美国曾计划过开展一个比较$0.6\mathrm{mg/kg}$ 与$0.9\mathrm{mg/kg}$ 剂量的随机对照研究，但未能获得NINDS 批准。故对于AIS 静脉溶栓的最佳rt-PA 剂量一直存在争议。  
 # 55. 美国1995 年NINDS 研究和2008 年ECASS Ⅲ研究是欧美rt-PA 静脉溶栓指南制定的依据  
-美国脑卒中指南推荐：发病$<4.5$ 小时内的AIS 给予静脉rt-PA 溶栓治疗，标准剂量均为$0.9\mathrm{mg/kg}$（最大剂量$90\mathrm{ms}$），这主要是基于NINDS 和ECAS Ⅲ研究的结果。1995 年在《NEJM》杂志发表的NINDS 研究是里程碑式的研究，美国FDA 据此批准了在发病$<\,3$ 小时内的AIS 给予静脉rt-PA 溶栓治疗，标准剂量均为$0.9\mathrm{mg/kg}$（最大剂量$90\mathrm{ms}$）。这项临床试验中rt-PA 溶栓治疗优于安慰剂（$O R{=}1.7$，$95\%C I\;1.2\sim2.6)$）；发病36 小时内sICH 比例溶栓治疗高于安慰剂（$(6.4\%~\nu s.~0.6\%$，$P<0.001$）。美国FDA 于1996 年批准了标准剂量rt-PA 治疗发病3 小时内的急性脑梗死。2008 年在《NEJM》杂志发表的ECASS Ⅲ研究将rt-PA 静脉溶栓治疗的时间窗扩展到4.5 小时，治疗组较对照组有更好的临床结局（$\left(52.4\%\ \nu s.\45.2\%\right.$，$O R{=}1.34$，$95\%C I$ 
+美国脑卒中指南推荐：发病$<4.5$ 小时内的AIS 给予静脉rt-PA 溶栓治疗，标准剂量均为$0.9\mathrm{mg/kg}$（最大剂量$90\mathrm{ms}$），这主要是基于NINDS 和ECAS Ⅲ研究的结果。1995 年在《NEJM》杂志发表的NINDS 研究是里程碑式的研究，美国FDA 据此批准了在发病$<\,3$ 小时内的AIS 给予静脉rt-PA 溶栓治疗，标准剂量均为$0.9\mathrm{mg/kg}$（最大剂量$90\mathrm{ms}$）。这项临床试验中rt-PA 溶栓治疗优于安慰剂（$O R{=}1.7$，$95\%C I\;1.2\sim2.6)$）；发病36 小时内sICH 比例溶栓治疗高于安慰剂（$(6.4\%~\nu s.~0.6\%$，$P<0.001$）。美国FDA 于1996 年批准了标准剂量rt-PA 治疗发病3 小时内的急性脑梗死。2008 年在《NEJM》杂志发表的ECASS Ⅲ研究将rt-PA 静脉溶栓治疗的时间窗扩展到4.5 小时，治疗组较对照组有更好的临床结局（$\left(52.4\%\ \nu s.\ 45.2\%\right)$
+，$O R{=}1.34$，$95\%C I$ 
 $1.02\sim1.76$，$P{=}0.04$），sICH 在治疗组高于对照组（$(2.4\%\ \nu s.\ 0.2\%$，
 ${\it P}{=}0.008$）。2014 年在《The Lancet》发表的Meta 分析进一步证实了rt-PA 静脉溶栓对于发病4.5 小时内的AIS 患者可带来显著获益。  
 # 56. 低剂量rt-PA 静脉溶栓的早期证据来自日本的 单臂或市场后监测研究，无同期对照，证据水平低  
@@ -20,8 +21,7 @@ PA 溶栓试验和观察性研究（部分研究）- 表43　低剂量rt
 （2）标准剂量和低剂量疗效相当：2012 年中国台湾两家医院的回顾性分析（Chen）认为标准剂量和低剂量疗效相当；2013年中国上海新华医院单中心研究（Pan）认为标准剂量和低剂量疗效相当，sICH 没有显著差异。2015 年韩国溶栓登记研究（Kim）认为良好神经结局和sICH，低剂量和标准剂量两组比例相当。  
 （3）标准剂量疗效不及低剂量：2010 年中国台湾溶栓治疗急性脑梗死试验（ Taiwan thrombolytic therapy for acute ischemic  stroke，TTT-AIS）（Chao）认为标准剂量疗效不及低剂量，sICH增加1 倍。2014 年中国台湾TTT-AIS-Ⅱ研究（Chao）结论和2010 年TTT-AIS 研究结论相似，认为标准剂量疗效不及低剂量，在70 岁以上人群，发病36 小时sICH 在标准剂量组比例增加，90 天良好预后（mRS 0-1）比例减少，发病3 个月内死亡有增加的趋势。2010 年越南溶栓登记研究结论为标准剂量疗效不及低剂量，sICH 没有明显差异。传统的系统综述在溶栓药物rt-PA剂量选择上遇到了困难。而定量评价方法、Meta 分析能够从另外的角度提供一些证据。对rt-PA 标准剂量和低剂量静脉溶栓疗效比较的真实世界研究Meta 分析发现：对于东亚急性脑梗死患  
 者，发病3 小时内依据平扫CT 选择rt-PA 静脉溶栓治疗，标准剂量疗效优于低剂量，发病 90  天良好预后的 $O R$  为 0.85 （ $95\%C I
-$ $0.73\sim0.98)$），sICH 两组差别无统计学意义（$O R{=}1.23$，$95\%C I
-$$0.92\sim1.65\$），死亡无统计学差别（$O R{=}0.94$$95\%C I\:0.76\sim1.18\,\rangle$）。  
+$ $0.73\sim0.98)$），sICH 两组差别无统计学意义（$O R{=}1.23$，$95\%C I$0.92\sim1.65\$），死亡无统计学差别（$O R{=}0.94$$95\%C I\:0.76\sim1.18\,\rangle$）。  
 58. 2016 年发表的ENCHANTED 研究是第一个剂量比较的随机对照试验研究，由于不了解研究设计而被错误解读时常发生  
 2016 年在《NEJM》杂志发表的改进高血压管理和溶栓治疗研究（ enhanced control of hypertension and thrombolysis stroke  study，ENCHANTED）为静脉rt-PA 溶栓治疗剂量选择提供了最新的级别最高的证据。ENCHANTED 研究采用多中心、前瞻性、随机、开放、评价者盲法设计（PROBE）。正确解读ENCHANTED 研究的结果，首先需要读懂该研究的设计。如果不清楚ENCHANTED 研究设计的特点，就不能充分理解该研究结果的实践指导意义，甚至得到和真实情况相反的结论，错误 地指导临床实践。有鉴于此，在讨论ENCHANTED 研究结果之前，重点阐述一下相关的试验设计。  
 59. ENCHANTED 研究是$\mathcal{Q}\times\mathcal{Q}$ 析因设计，在同一临床试验中验证两个科学假设，交互作用模型分为加法模型和乘法模型，统计模型的复杂增加了结果的不确定性  
@@ -31,7 +31,7 @@ ENCHANTED 研究中采用了$2\times2$ 析因设计，两因素（rt-PA 剂量�
 引自：Huang Y，Sharma VK，Robinson T，et al.Rationale，design，and progress of the enhanced control  of hypertension and thrombolysis stroke study（ENCHANTED）trial：an international multicenter  $2\times2$   quasi - factorial randomized controlled trial of low -  vs. standard - dose rt - PA and early intensive vs. guideline - recommended blood pressure lowering in patients with acute ischaemic stroke eligible for thrombolysis  treatment. Int J Stroke，2015，10（5）：778-788.  
 # 60. ENCHANTED 研究是非劣性检验，假设低剂量组较标准剂量组增加不良预后的比例，但不应超过 $14\%$  
 新药临床试验的检验分别是优效性、等效性和非劣效性检验。  
-（1）优效性检验的研究目的：A 药的效果好于B 药。研究假设： $\textcircled{1}$ 无效假设： $\mathrm{A-B}\leqslant\mathrm{~\AA~}\updelta$ ； $\textcircled{2}$ 备择假设： $\mathrm{A-B}>\ \updelta$ 。优效 性检验用来证实新药A 的效果好于旧药B，来判断新药A 上市的情况。它是一个单侧的检验。  
+（1）优效性检验的研究目的：A 药的效果好于B 药。研究假设： $\textcircled{1}$ 无效假设： $\mathrm{A-B}\leqslant\mathrm{~\AA~}\delta$ ； $\textcircled{2}$ 备择假设： $\mathrm{A-B}>\ \delta$ 。优效 性检验用来证实新药A 的效果好于旧药B，来判断新药A 上市的情况。它是一个单侧的检验。  
 （2）等效性检验的研究目的：A 药的效果等于B 药。研究假设：$\textcircled{1}$无效假设：$\mathrm{A-B}\leqslant-\delta$或$\mathrm{A-B}\geqslant\delta$；$\textcircled{2}$备择假设：$-\delta<\mathrm{A}-$$\mathrm{B}<\delta$。等效性检验常用于同一活性成分的药物之间的疗效比较，证实的是A 药和B 药的疗效相当。它可以是单侧也可以是双侧的检验。  
 （3）非劣效性检验的研究目的：A 药的效果不差于B 药。研究假设：$\textcircled{1}$无效假设：$\mathrm{A-B}\leqslant-\delta$；$\textcircled{2}$备择假设：$\mathrm{A-B}>-\delta$。如果A 药因给药方便、耐受性好等原因，只要A 药的疗效不差于B 药即可。非劣效性检验的样本量估算与等效性检验基本一致，不同的是非劣效检验是单侧检验，而等效性检验单侧、双侧 均可。  
 在优效、等效和非劣效检验中临界值δ 应该由临床专家来确定，一般是从专业角度反复论证并结合。不同研究、不同科室的课题应该有自己的δ，当δ 难以确定时，可酌情取$1/5\sim1/2$ 个标准差或对照组均数的$1/10\sim1/5$。应当指出，统计学非劣性检验的“不差于”意思是稍差，还可以接受（即首先承认存在不足，但差值$<-\delta.$）。而逻辑学中的“不差于”按照“非”逻辑的判断是“等于或好于”的意思。二者有着根本的意义区别。  

@@ -29,6 +29,6 @@
 彩插25　荧光显微镜下的衣原体原体和始体（$1000\times1$）（见正文第106 页）  
 彩图26　细胞因子IFN-γ 检测（见正文第139 页）  
 彩插27　小鼠迟发型超敏反应（见正文第139 页）  
-$\cdot_{\mathbb{P}<0,\,05}$ $\scriptstyle\cdots_{\mathtt{P}<0.05}$ $\star_{\mathrm{P<0},\,05\ast}$  
-$\cdot_{\mathbb{P}<0,\,05}$ $\scriptstyle\cdots_{\mathtt{P}<0,\,05}$ ${<}0.05\nu$  
+$\cdot_{\mathbb{P}<0,05}$ $\scriptstyle\cdots_{\mathtt{P}<0.05}$ $\star_{\mathrm{P<0},05\ast}$  
+$\cdot_{\mathbb{P}<0,05}$ $\scriptstyle\cdots_{\mathtt{P}<0,05}$ ${<}0.05\nu$  
 彩插28　E 型沙眼衣原体重组主外膜蛋白对恒河猴的细胞免疫及体液免疫原性研究  

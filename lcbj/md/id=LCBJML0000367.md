@@ -6,17 +6,15 @@
 目前常用的评估肺炎严重程度的评分方法包括APACHE Ⅱ、PSI、CRB-65、IDSA/ATS 等，这些评分方法在西方国家已经通过大样本的回顾性分析，能够准确地对CAP 患者进行危险分层，帮助临床医师做出临床决策。  
 （1）APACHE Ⅱ评分。急性生理学及慢性健康状况评分系统 APACHE  Ⅱ（ acute physiology and chronic  health evaluation scoring system）是目前临床上重症监护病房应用最广泛、最具权威的危重病病情评价系统。根据它对重症监护病房患者的病情评定和病死率的预 测，可以客观地制订和修正医疗护理计划，为提高医疗质量、合理利用医疗资源以及确定最佳出院时机或选择治疗的时间，提供了客观、科学的依据。既可用于单病种患者的比较，也可用于混合病种。APACHE Ⅱ共12 项参数（均为进入ICU 后前24 小时内最差者）每项分值仍为 $0\sim4$  分，总分值 $0\sim60$  分。年龄分值 $0\sim6$ 分$\mathrm{CPS}\;2\sim5$ 分。APACHE Ⅱ的总分值为$0\sim71$分，分值越高病情越重。  
 （2）PSI 评分。美国胸科协会（ATS）和美国感染病协会（IDSA）于2007 年制定了《社区获得性肺炎诊断和治疗指南》，推荐用PSI 以及CURB-65 评分对病情及预后进行评估。  
-PSI 评分包括年龄、性别、护理机构人员、肿瘤、肝脏疾病、充血性心力衰竭、脑血管疾病、肾脏疾病、精神状态改变、呼吸频率$>30$ 次/ 分、收缩压$<90\mathrm{mmHg}$、体温$<35\,^{\circ}\mathrm{C}$或$>40\,^{\circ}\mathrm{C}$、脉搏$>125$ 次/分、动脉血气分析$\mathrm{pH}<7.35$、血尿素氮$>11\mathrm{mol/L}$、血钠 $<\,130\mathrm{mmol/L}$ 、血糖 $>14.0\mathrm{mm}/\mathrm{L}$ 、红细胞比容 $<30\%$、$\mathrm{POZ}<60\mathrm{mmHg}$ 和胸腔积液20 个参数。年龄加上其余19 个参数（评分从10 分到30 分不等）算出总分（女性患者减去10 分）。总分（50、$51\sim70$、  
+PSI 评分包括年龄、性别、护理机构人员、肿瘤、肝脏疾病、充血性心力衰竭、脑血管疾病、肾脏疾病、精神状态改变、呼吸频率$>30$ 次/ 分、收缩压$<90\mathrm{mmHg}$、体温$<35^{\circ}\mathrm{C}$或$>40^{\circ}\mathrm{C}$、脉搏$>125$ 次/分、动脉血气分析$\mathrm{pH}<7.35$、血尿素氮$>11\mathrm{mol/L}$、血钠 $<130\mathrm{mmol/L}$ 、血糖 $>14.0\mathrm{mm}/\mathrm{L}$ 、红细胞比容 $<30\%$、$\mathrm{POZ}<60\mathrm{mmHg}$ 和胸腔积液20 个参数。年龄加上其余19 个参数（评分从10 分到30 分不等）算出总分（女性患者减去10 分）。总分（50、$51\sim70$、  
 $71\sim90,91\sim130$ 和$>130$）分别为Ⅰ级、Ⅱ级、Ⅲ级、Ⅳ级和Ⅴ级。  
 （3）CURB-65 评分。CURB-65 评分则相对简单，方便记忆和操作，更关注急性感染方面的评估。包括意识改变（new onset confusion，C），血尿素氮（urea，U）$>7\mathrm{mm}/\mathrm{L}$，呼吸频率（respiratory rate，$)>30$次/分，血压（ blood pressure ， B ）收缩压 $<90\mathrm{mmHg}$  或舒张压 $<60\mathrm{mmHg}$，年龄$>65$ 岁。每符合一条为1 分，总分从0 分到5 分。社区获得性肺炎患者评分方式分为低风险、中等风险、高风险，具体为低风险：$0\sim1$ 分，中等风险：2 分，高风险：$3\sim5$ 分。  
-（4）IDSA/ATS 评分。美国感染性疾病学会（infectious diseases society of america，IDSA）/ 美国胸科学会（american thoracic society，ATS）在2001 年颁布成年人社区获得性肺炎管理指南，并定义凡符合2 项主要诊断标准之一（需要有创机械通气或感染性休克需要血管收缩剂治疗）或9 项次要诊断标准中3 项［呼吸频率 $\geqslant30$  次 /  分，动脉血氧分压 /  吸氧浓度
- （arterial oxygen pressure/fraction inspired oxygen，$\mathrm{PaO}_{2}/
-$$\mathrm{SiO}_{2})\ \leqslant250\mathrm{mm}\mathrm{Hg}$（$1\mathrm{mmHg}{=}0.133\mathrm{kPa})$），多肺叶浸润，意识障碍/ 定向障碍，血尿素氮$\geqslant7\mathrm{mm}/\mathrm{L}$，白细胞$<4.0\times10^{9}/\mathrm{L}$，血小板$<100\times10^{9}/\mathrm{L}$，体温$<36\,^{\circ}\mathrm{C}$和低血压且需强力液体复苏］者为重症社区获得性肺炎。  
+（4）IDSA/ATS 评分。美国感染性疾病学会（infectious diseases society of america，IDSA）/ 美国胸科学会（american thoracic society，ATS）在2001 年颁布成年人社区获得性肺炎管理指南，并定义凡符合2 项主要诊断标准之一（需要有创机械通气或感染性休克需要血管收缩剂治疗）或9 项次要诊断标准中3 项［呼吸频率 次 /  分，动脉血氧分压 /  吸氧浓度$\mathrm{SiO}_{2})\ \leqslant250\mathrm{mm}\mathrm{Hg}$（$1\mathrm{mmHg}{=}0.133\mathrm{kPa})$），多肺叶浸润，意识障碍/ 定向障碍，血尿素氮$\geqslant7\mathrm{mm}/\mathrm{L}$，白细胞$<4.0\times10^{9}/\mathrm{L}$，血小板$<100\times10^{9}/\mathrm{L}$，体温$<36^{\circ}\mathrm{C}$和低血压且需强力液体复苏］者为重症社区获得性肺炎。  
 （5）SMART-COP 评分。SMART-COP 是2008 年由澳大利亚的社区获得性肺炎研究计划通过对882 例患者采用前瞻性多中心观察提出来的，用于预测需要呼吸和循环支持的患者的评分量表。研究显示SMART-COP 评分量表在预测患者是否应该进入ICU 治疗以及是否需要机械通气和缩血管药物方面比CURB-65 和PSI  更有优势。详见表 1 。  
 各项指标积累计分结果，$0\sim2$ 分：存在低风险需要呼吸循环支持；$3\sim4$ 分：存在中度风险需要呼吸循环支持；$5\sim6$ 分：存在高风险需要呼吸循环支持$\geqslant7$分：存在极高风险需要呼吸循环支持。  
-（6）我国CAP 重症肺炎诊断标准。2006 年，中华医学会呼吸病学分会结合国外病情评分系统和我国国情，推出新的CAP 指南。该指南与美国2001 年推出的肺炎指南相似，列出了肺炎住院标准及重症肺炎的诊断标准，但未提及危险度分级。该标准包括7 项指标：$\textcircled{1}$意识障碍；$\textcircled{2}$呼吸频率$\geqslant30$ 次/ 分；$\textcircled{3}$$\mathfrak{D}\mathrm{~PaO}_{2}
-$$<\,60\mathrm{mmHg}$，$\mathrm{PaO}_{2}/\mathrm{SiO}_{2}<300$，需行机械通气治疗；
-$\textcircled{4}$动脉收缩压$<90\mathrm{mmHg}$；$\mathcal{S}$并发脓毒性休克；$\textcircled{6}$X 线胸片显示双侧或多肺叶受累，或入院48 小时内病变扩大$\geqslant50\%$ ；$\textcircled{\scriptsize{2}}$少尿：尿量$<20\mathrm{m/h}$，或$<\,80\mathrm{m}|/4\mathrm{h}$，或并发急性肾功能衰竭需要透析治疗。具有任意一项及以上者可诊断为重症肺炎，有条件时可收住ICU 治疗。  
+（6）我国CAP 重症肺炎诊断标准。2006 年，中华医学会呼吸病学分会结合国外病情评分系统和我国国情，推出新的CAP 指南。该指南与美国2001 年推出的肺炎指南相似，列出了肺炎住院标准及重症肺炎的诊断标准，但未提及危险度分级。该标准包括7 项指标：$\textcircled{1}$意识障碍；$\textcircled{2}$呼吸频率$\geqslant30$ 次/ 分；$\textcircled{3}$$\mathfrak{D}\mathrm{~PaO}_{2} < 60\mathrm{mmHg}$$，$\mathrm{PaO}_{2}/\mathrm{SiO}_{2}<300$，需行机械通气治疗；
+$\textcircled{4}$动脉收缩压$<90\mathrm{mmHg}$；$\mathcal{S}$并发脓毒性休克；$\textcircled{6}$X 线胸片显示双侧或多肺叶受累，或入院48 小时内病变扩大$\geqslant50\%$ ；$\textcircled{\scriptsize{2}}$少尿：尿量$<20\mathrm{mL/h}$
+，或$<80\mathrm{m}|/4\mathrm{h}$，或并发急性肾功能衰竭需要透析治疗。具有任意一项及以上者可诊断为重症肺炎，有条件时可收住ICU 治疗。  
 大量的研究表明，PSI、CURB-65、IDSA/ATS都可以帮助急诊医师明确肺炎的严重度和预后，而APACHE-Ⅱ则有助于医师了解危重症患者的病死率。  
 面起着重要作用  
 尽管这些严重度评分都可以很好地帮助临床医师了解病情，进而选择合适的治疗手段，然而，在老年患者中，特别是在高龄患者中，这些评分会存在一定的偏移。而且，在许多国家的研究表明，医师们在实际临床工作中对这些评分的应用并不十分频繁，主要原因是存在大量的变量须进行计算。  

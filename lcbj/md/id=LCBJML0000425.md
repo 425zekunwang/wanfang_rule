@@ -38,8 +38,8 @@ STN-DBS  显著改善 PD  患者睡眠质量，减少夜间和晨起肌张 力�
 # 3 ）直立性低血压  
 DBS 与直立性低血压相关性研究主要是STN 深度电刺激。STN-DBS 可增加PD 患者外周血管阻力和反射敏感性以维持血压，进而改善PD 合并的直立性低血压。手术前后左旋多巴剂量与自主神经功能失调也呈正相关（Ⅱ-1 级证据）。因此，STN-DBS 可特异性对自主神经功能起效而不影响心脏自主神经功能，术后左旋多巴使用剂量需谨慎，避免对自主神经起负性作用。屈昔多巴逐渐成为治疗PD 直立性低血压有效药物，FDA 推荐剂量为$100\mathrm{mg}$，3 次/ 日（I 级证据）。  
 # 4 ）排便和排尿障碍  
-STN-DBS  可改善尿动力参数，延迟排尿冲动，增加膀胱储 存能力。抗毒蕈碱药物是膀胱刺激征患者一线药物，但容易导致患者便秘、口腔干燥，尤其是认知功能下降PD 患者需谨慎使用。$eta-$ 肾上腺素能受体激动药因对中枢认知功能影响较小而前景良好。去氨加压素对夜间多尿PD 患者有效（Ⅱ-2 级证据）。  
-胃肠功能失调（胃蠕动障碍、便秘、肛门直肠功能障碍、胃排空延迟，甚至胃轻瘫）在PD 进程各个阶段可达$100\%$ 出现，严重影响患者生活质量，与$\upalpha-$ 突触核蛋白聚集于肠肌层神经元可能相关。应用肛门括约肌肌电图研究发现STN-DBS 术后PD患者胃肠蠕动及胃肠活动明显改善，排便困难改善效果显著。针 对便秘患者优化PD 治疗，调整饮食、液体摄入量、锻炼腹部和  
+STN-DBS  可改善尿动力参数，延迟排尿冲动，增加膀胱储 存能力。抗毒蕈碱药物是膀胱刺激征患者一线药物，但容易导致患者便秘、口腔干燥，尤其是认知功能下降PD 患者需谨慎使用。$\eta-$ 肾上腺素能受体激动药因对中枢认知功能影响较小而前景良好。去氨加压素对夜间多尿PD 患者有效（Ⅱ-2 级证据）。  
+胃肠功能失调（胃蠕动障碍、便秘、肛门直肠功能障碍、胃排空延迟，甚至胃轻瘫）在PD 进程各个阶段可达$100\%$ 出现，严重影响患者生活质量，与$\alpha-$ 突触核蛋白聚集于肠肌层神经元可能相关。应用肛门括约肌肌电图研究发现STN-DBS 术后PD患者胃肠蠕动及胃肠活动明显改善，排便困难改善效果显著。针 对便秘患者优化PD 治疗，调整饮食、液体摄入量、锻炼腹部和  
 盆底肌肉，增加活动量，适度减少多巴胺类药物和增加促胃肠动力药物多潘立酮。若因多巴胺类药物导致便秘恶化，可服用渗透性轻泻药（聚乙二醇3350、亚麻籽、聚乙烯乙二醇），鸟苷酸环化酶C 受体激动药，5-HT4 受体激动剂，促分泌和氯离子通道激活药，乙酰胆碱酯酶抑制药（Ⅲ级证据）。  
 # （5）疼痛  
 DBS  在改善帕 PD  患者运动症状的同时也可改善疼痛。丘 脑底核刺激术和苍白球内部刺激术均可缓解 PD  患者剂末肌张力 障碍引起的疼痛有效。DBS 对PD 疼痛的效果也取决于原有疼痛的原因和机制（Ⅳ级证据）。目前仍不清楚何种类型的疼痛对DBS 反应更好。没有证据显示术前对左旋多巴的反应性可以预测STN-DBS 缓解PD 患者疼痛的程度，也没有证据说明运动症状在术后改善的程度和术后疼痛缓解的程度相关（Ⅳ级证据）。因此针对术后仍伴有疼痛的PD 患者可根据其类型进行处理。  
@@ -54,7 +54,7 @@ DBS  在改善帕 PD  患者运动症状的同时也可改善疼痛。丘 脑底
 3.Deuschl G ， Agid Y.Subthalamic neuro stimulation for Parkinson's disease with  early ﬂuctuations： balancing the risks and beneﬁts. Lancet Neurology，2013，12（10）：1025-1034.  
 4.中华医学会神经病学分会帕金森病及运动障碍学组. 中国帕金森病治疗指南：第三版. 中华神经科杂志，2014，（47）6：428-433.  
 5.Fasano A ， Aquino CC ， Krauss JK ， et al. Axial disability and deep brain  stimulation in patients with Parkinson disease. Nature Reviews Neurology ， 2015 ， 11 （ 2 98-110.  
-6.Li D ， Cao C ， Zhang J ， et al.Subthalamic nucleus deep brain stimulation for Parkinson's  disease： 8 years of follow-up. Translational Neuro degeneration，2013，2（1）：11.  
+6.Li D ， Cao C ， Zhang J ， et al.Subthalamic nucleus deep brain stimulation for Parkinson's  disease： 8 years of follow-. Translational Neuro degeneration，2013，2（1）：11.  
 7.Schlenstedt C ， Shalash A ， Muthuraman M ， et al.Effect of high-frequency  subthalamic neuro stimulation on gait and freezing of gait in Parkinson's disease ： a systematic  review and Meta-analysis. European Journal of Neurology，2016，24（1）：18.  
 8.Odin P ， Ray CK ， Slevin JT ， et al.Collective physician perspectives on non- oral medication approaches for the management of clinically relevant unresolved issues  in Parkinson's disease ： consensus from an international survey and discussion program.  Parkinsonism & Related Disorders，2015，21（10）：1133-1144.  
 9.Fasano A ， Appel-Cresswell S ， Jog M ， et al.medical Management of Parkinson's  disease after initiation of deep brain stimulation. Canadian Journal of Neurological  Sciences，2016，43（5）：626-634.  

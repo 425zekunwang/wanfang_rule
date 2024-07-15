@@ -16,17 +16,17 @@
 # 25.FIGO 指南强调青少年及育龄女性的孕前和孕期营养非常重要  
 FIGO 呼吁：提升对女性营养状况可影响自身及子代健康的认识，加强改善青少年及育龄期女性营养健康状况。  
 FIGO 建议将孕期营养及围产期的健康视为妇女整体健康的一部分，强调青少年和年轻时期的营养状况关乎其终身健康，而孕前健康的生活方式有益于下一代的健康（图6）。青少年和年轻女性的营养状况是可以改变的，因此应在所有可能条件下，对女性孕前营养状况给予关注，不断鼓励女性养成健康的饮食习惯，遵循健康的生活方式。  
-[  引自： Hanson MA ， Bardsley A ， De-Regil LM ， et al.The International Federation of Gynecology  and Obstetrics （ FIGO ） recommendations on adolescent ， preconception ， and maternal nutrition Think  Nutrition First”.Int J Gynaecol Obstet，2015，131 Suppl 4：S213-253.]图6　营养是终身健康与代际健康的核心  
+[  引自： Hanson MA ， Bardsley A ， De-Regil LM ， et al.The International Federation of Gynecology  and Obstetrics （ FIGO ） recommendations on adolescent ， preconception ， and maternal nutrition Think  Nutrition First”.Int J Gynaecol Obstet，2015，131 Spl 4：S213-253.]图6　营养是终身健康与代际健康的核心  
 FIGO 在此次建议中倡导：$\textcircled{1}$提升女性对营养状况可影响其自身及子代健康的认知； $\textcircled{2}$ 更加关注母亲营养不良导致子代患慢 性非传染性疾病（non-communicable diseases，NCDs）风险的增加；$\textcircled{3}$采取行动改善青少年和育龄女性的营养状况；$\textcircled{4}$采取公共卫生措施加强营养教育，尤其针对青少年和年轻女性；$\mathcal{S}$增强对育龄女性孕前服务的普及，协助实现有计划性的健康妊娠。  
 # FIGO 指南中关于健康饮食的建议  
 FIGO 指出，良好的饮食应既能满足机体的营养代谢需要，又不宜过量。尤其要注意的是，营养不等同于能量——健康的饮食需摄入高营养密度的食物，包括豆类、蔬菜和水果，同时限制摄入高能量但营养密度低的食物，如糖、含糖饮料及饱和脂肪酸。  
 降低疾病风险的饮食结构包括充足的蔬菜水果、全谷物、坚果及足量的纤维素，同时限制饱和脂肪酸的摄入。总体来说，健康的饮食是要有足量植物来源的食物，并包括一定比例的不饱和脂肪酸、家禽、少量的低脂乳制品、蛋类及少量加工肉类。减少脂肪总量的摄入并不是健康饮食的首要条件，更重要的是不饱和脂肪酸与饱和脂肪酸适宜的比例，以及避免合成反式脂肪酸的摄入，才能使各种因素导致的死亡率降至最低，尤其是心血管疾病及恶性肿瘤。  
 世界卫生组织建议成人健康饮食组成如下：水果、蔬菜、豆类；坚果和全谷物（未加工的玉米、小米、燕麦、小麦、糙米）；每日摄入至少$400\ \mathrm{g}$蔬菜水果（不包括土豆等块茎类食物）；从糖类获得的能量低于总能量的$10\%$（约$50~\mathrm{g},$），最好低于总能量的$5\%$；从脂肪类食物获得的能量需低于总能量的$30\%$，不饱和脂肪酸更佳（饱和脂肪酸低于总能量的$10\%$，多不饱和脂肪酸为总能量的$6\%\sim10\%$）；每日食盐摄入需低于$5\mathrm{g}$（含$_{2\mathrm{g}}$ 钠），并推荐加碘盐。  
-此外，食物多样性是评价饮食质量的指标之一，并影响营养素的摄入水平。联合国营养分会和粮农组织认为，为保证饮食多样性，女性每日应摄入$5\!\sim\!10$ 类食物，且每类食物最低摄入量为$15\,\mathrm{g}.$  
+此外，食物多样性是评价饮食质量的指标之一，并影响营养素的摄入水平。联合国营养分会和粮农组织认为，为保证饮食多样性，女性每日应摄入$5\!\sim\!10$ 类食物，且每类食物最低摄入量为$15\mathrm{g}.$  
 # FIGO 指南对青少年及孕前女性的营养建议  
 FIGO 强调优化青少年及孕前女性营养状况的重要性， 鼓励其妊娠前建立健康的饮食结构和生活方式。如果女性在青少年时期及妊娠前建立了良好的饮食习惯、摄入足量的营养素，则无须在妊娠期间刻意调整饮食结构。FIGO 指出，青春期即应开始加强对女性的健康教育，促其养成良好的饮食及运动习惯，并使其认识到健康生活方式的重要性。健康教育的目标人群还应包括青少年女性的父母、老师、社会文化机构，从而全面改善女性营养状况。  
 近期研究表明，妊娠期再改变女性生活方式的成效很低，尤其是妊娠前超重和肥胖者。所以对女性的营养管理应尽早开始，强调女性在青少年时期就应定期进行体检。最理想的方式是从小学至高中阶段，全面对女性进行营养健康教育。同时还应鼓励女性规律运动并避免长期久坐。建议所有育龄女性，注意饮食中可能缺少的某些营养素，并通过膳食多样化、摄入营养素强化食品和直接补充营养素等方式纠正。FIGO 对青少年及育龄女性妊娠前的具体营养建议见表6。  
-，recommendations on adolescent ）FIGO S213-253.] （et al.The International Federation of Gynecology and Obstetrics）： Suppl 4 （131 ，2015 ，.Int J Gynaecol Obstet ” ，Think Nutrition FirstDe-Regil LM “ ：，and maternal nutritionBardsley A ，Hanson MA， 引自：preconception[  
+，recommendations on adolescent ）FIGO S213-253.] （et al.The International Federation of Gynecology and Obstetrics）： Spl 4 （131 ，2015 ，.Int J Gynaecol Obstet ” ，Think Nutrition FirstDe-Regil LM “ ：，and maternal nutritionBardsley A ，Hanson MA， 引自：preconception[  
 # FIGO 指南对妊娠女性的营养建议  
 FIGO 强烈建议妊娠期女性尽早进行产前检查、营养咨询和干预，及时治疗危及妊娠结局的疾病，如疟疾、肺结核、慢性非 传染性疾病等。  
 女性如果在妊娠前已建立健康的饮食习惯，则无须在妊娠期进行调整。但需要注意的是，一些营养素在妊娠各阶段的需求量会增加。较为重要的营养素会随着妊娠的进展，需求量亦有所增加。基础营养状态不佳、低龄孕妇、多胎妊娠、妊娠间隔过短、营养吸收不良或有寄生虫感染的女性，妊娠期对某些营养素的需求量更大。故妊娠期女性应行相应检查，以了解叶酸、维生素$\mathrm{B}_{12}$、铁（血红蛋白和铁蛋白）等营养素的额外补充量。  

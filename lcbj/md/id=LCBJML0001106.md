@@ -4,7 +4,7 @@
 丛书中每一本书阐述一种疾病的最新研究成果及专家观点，按年度持续出版，强调医学知识的权威性和时效性，以期细致、连续、全面展示我国临床医学的发展历程。与其他医学专著相比，本丛书具有出版周期短、持续性强、主题突出、内容精练、阅读体验佳等特点。在图书出版的同时，同步通过万方数据库等互联网平台进入全国的医院，让各级临床医师和医学科研人员通过数据库检索到专家观点，并能迅速在临床实践中得以应用。  
 在与作者沟通过程中，他们对丛书出版的高度认可给了我们坚定的信心。北京协和医院邱贵兴院士说“这个项目是出版界的创新……项目持续开展下去，对促进中国临床学科的发展能起到很大作用”。中国人民解放军第二军医大学孙颖浩校长表示“我鼓励我国的泌尿外科医生把自己的创新成果和宝贵的经验传播给国内同行，我期待本丛书的出版”；北京大学第一医院霍勇教授认为“百家丛书很有意义”。我们感谢这么多临床专家积极参与本丛书的写作，他们在深夜里的奋笔，感动着我们，鼓舞着我们，这是对本丛书的巨大支持，也是对我们出版工作的肯定，我们由衷地感谢作者的支持与付出！  
 在传统媒体与新兴媒体相融合的今天，打造好这套在互联网时代出版与传播的高端医学专著，为临床科研成果的快速转化服务，为中国临床医学的创新及临床医师诊疗水平的提升服务，我们一直在努力！  
-彩插1　不同类型营养不良导致的瘦体组织丢失及其对营养支持的反应（见正文090 页）注：NS，nutrition support，营养支持。  
+彩插1　不同类型营养不良导致的瘦体组织丢失及其对营养支持的反应（见正文090 页）注：NS，nutrition sport，营养支持。  
 彩插2　不同条件下机体对能量需求及三大营养素功能比例的变化（见正文126 页）  
 彩插3　肿瘤细胞的十大特征（见正文145 页）  
 注：引自参考文献 Hanahan D ， Weinberg RA. Hallmarks of cancer: the next generation. Cell ， 2011 144（5）：646-674，引用时有修改。  
@@ -13,7 +13,7 @@
 彩插5　血糖波动对肿瘤病灶的影响（见正文177 页）  
 注：A，血糖稳定；B，血糖波动。大小提示肿瘤病灶大小，红点代表细胞脱落。引自 Kim Y，Roh S，Lawler S ， at al. miR451 and AMPK mutual antagonism in glioma cell migration and proliferation: a  mathematical model. PLoS One，2011，6（12）：e28293，引用时有修改。本图说明：持续供给葡萄糖，肿瘤体积将不断增大；葡萄糖供给及血糖波动时，肿瘤体积增大更快，肿瘤细胞脱落而发生转移。  
 彩插6　口服$\mathrm{\Omega}_{\mathrm{0}-3}$ 脂肪酸对胰腺癌患者体重的影响（见正文179 页）  
-注：20 例不可切除胰腺癌患者每天口服2 罐肠内营养剂（每罐含$310\mathrm{kcal}$，$16.1\mathrm{g}$ 蛋白质，$1.09\mathrm{g}$ EPA）后，患者中位体重明显增加，与不含EPA 的肠内营养剂相比，差异显著。引自Barber MD ， Ross JA ， Voss AC ， at al. The effect of an oral nutritional supplement enriched with fish oil on  weight-loss in patients with pancreatic cancer. Br J Cancer，1999，81（1）：80-86，引用时有修改。  
+注：20 例不可切除胰腺癌患者每天口服2 罐肠内营养剂（每罐含$310\mathrm{kcal}$，$16.1\mathrm{g}$ 蛋白质，$1.09\mathrm{g}$ EPA）后，患者中位体重明显增加，与不含EPA 的肠内营养剂相比，差异显著。引自Barber MD ， Ross JA ， Voss AC ， at al. The effect of an oral nutritional splement enriched with fish oil on  weight-loss in patients with pancreatic cancer. Br J Cancer，1999，81（1）：80-86，引用时有修改。  
 注：引自  Colman RJ ， Anderson RM ， Johnson SC ， et al. Caloric restriction delays disease onset and  mortality in rhesus monkeys.Science，2009，325（5937）：201-204。  
 彩插8　肠道菌群分布示意图（见正文208 页）  
 注：小肠营养物质丰富，以变形菌、乳杆菌、丹毒丝菌为主要菌群；大肠营养物质稀少，上述细菌较少，不易消化的营养物质较多，梭菌及拟杆菌丰富，它们消化大肠中不易消化的膳食纤 维。引自  Kamada N ， Chen G Y ， Inohara N ， et al. Control of pathogens and pathobionts by the gut  microbiota. Nat Immunol，2013，14（7）：685-690。  

@@ -18,7 +18,7 @@ $\textcircled{3}$按照临床表型分类：盐敏感高血压、妊娠高血压
 我国“H 型高血压”概念的提出、拓展和重要意义109  
 # “H 型高血压”概念的拓展  
 （1）Hcy 有三种代谢途径  
-$\textcircled{1}$由维生素$\mathrm{B_{6}}$依赖的胱硫醚β 合酶（cystathionine $eta$  synthase ， CBS ）催化， Hcy  通过该转硫途径转变为半胱 氨酸；$\textcircled{2}$由蛋氨酸合酶（methionine synthase，MS）催化成蛋氨酸，维生素$\mathrm{B}_{12}$是该酶的辅酶，甲基四氢叶酸作为底物，甲基四氢叶酸形成需要维生素$\mathrm{B}_{12}$ 依赖的亚甲基四氢叶酸还原酶（methylene tetra hydro folate reductase，MTHFR）催化； $\textcircled{3}$ Hcy  亦可被甜菜碱 -Hcy  甲基转移酶（ Betaine  homocysteine S-methyl transfer as e ， BHMT ）再甲基化成为 蛋氨酸，甜菜碱作为甲基供体。  
+$\textcircled{1}$由维生素$\mathrm{B_{6}}$依赖的胱硫醚β 合酶（cystathionine $\eta$  synthase ， CBS ）催化， Hcy  通过该转硫途径转变为半胱 氨酸；$\textcircled{2}$由蛋氨酸合酶（methionine synthase，MS）催化成蛋氨酸，维生素$\mathrm{B}_{12}$是该酶的辅酶，甲基四氢叶酸作为底物，甲基四氢叶酸形成需要维生素$\mathrm{B}_{12}$ 依赖的亚甲基四氢叶酸还原酶（methylene tetra hydro folate reductase，MTHFR）催化； $\textcircled{3}$ Hcy  亦可被甜菜碱 -Hcy  甲基转移酶（ Betaine  homocysteine S-methyl transfer as e ， BHMT ）再甲基化成为 蛋氨酸，甜菜碱作为甲基供体。  
 Hcy 代谢过程中的任何一个步骤受到影响，Hcy 就会在细胞内蓄积，最终进入血液循环，引起血浆Hcy 的升高。而Hcy 代谢过程中相关酶的基因突变则会通过影响代谢酶的活性而进一步影响Hcy 的转化过程，也会造成血浆Hcy的升高（图4）。  
 # 110中国医学临床百家丛书脑卒中  霍勇 推荐${\mathcal{D}}/{\mathcal{O}}$观点  
 （2）叶酸缺乏、MTHFR C677T 基因突变通过影响血浆Hcy 水平而增加脑卒中风险：血清叶酸水平偏低是高Hcy 最重要的原因之一。美国第三次全国健康与营养调查显示： 近 2/3  的患者 Hcy  升高是由于叶酸和维生素 $\mathrm{B}_{12}$ 缺乏 导致的，同样，我国人群中血清叶酸水平与血浆Hcy 水平也呈显著负相关关系。最常见的导致叶酸缺乏的原因是饮食叶酸摄入不足，尤其是豆类和绿叶蔬菜，哺乳和酗酒可 加重叶酸缺乏。食物的制备和烹调会造成叶酸的较大损失，尤其在煮沸时损失更大。  
