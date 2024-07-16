@@ -6,12 +6,12 @@ SLE  的治疗目标是通过控制疾病活动度、减少并发症和药物 �
 同样，LN 治疗的最终目标也是长期保护肾功能，预防疾病复发，避免治疗相关的损害，改善生活质量，提高生存率。因此，在确定LN 的分型之后，应尽早规范化治疗。治疗目标最好能在治疗开始后6 个月内达到，最迟不能超过12 个月。  
 #  诱导期冲击治疗和维持治疗时间  
 在所有Ⅲ型、Ⅳ型以及合并Ⅲ型或Ⅳ型的Ⅴ型LN 诱导缓解期均可给予$0.5\mathrm{g/d}$ 的甲泼尼龙冲击治疗3 日，之后行序贯泼尼松$0.5\sim1.0\mathrm{mg/}$（kg·d）治疗，几周后逐渐减量至最小有效维持量。同时选择CTX 或MMF 治疗，CTX 剂量可采用$0.8\mathrm{g}$，静脉滴注，每月1 次，共6 个月。因为人种不同，MMF 使用剂量应比欧美小，$1\sim2\mathrm{g/d}$ 口服，治疗6 个月。如患者对MMF 和CTX 均有禁忌，可选择硫唑嘌呤（azathioprine，AZA）2mg/（kg·d）作为初始治疗，但往往复发率更高些。6 个月后评估疗效，如病情改善，则可改为MMF 1g/d 或AZA 2mg/（kg·d）维持治疗。如病情未改善，可再次行$0.5\mathrm{g/d}$ 的甲泼尼龙冲击治疗3 日，随后激素重新序贯和减量，同时将CTX 及MMF 方案互换，剂量同上，再治疗6个月；如仍未缓解，可考虑应用钙调磷酸酶抑制剂（如环孢素A或TAC 等）或生物制剂，如利妥昔单抗（Rituximab）、贝利单抗（Belimumab）等二线治疗方案。  
-对于单纯Ⅴ型LN，诱导缓解首选$\mathrm{MMF}~2\sim3\mathrm{g/d}+$泼尼松$0.5\mathrm{mg/\Omega}\ \mathrm{(kg\cdotd)}$），6 个月后如有改善，则可改为MMF $1\mathrm{g/d}$ 或AZA $2\mathrm{mg}/$（$(\mathrm{kg}\cdot\mathrm{d})$）维持治疗；如病情无改善，则改用CTX、钙  
+对于单纯Ⅴ型LN，诱导缓解首选$\mathrm{MMF}~2\sim3\mathrm{g/d}+$泼尼松$0.5\mathrm{mg/\Omega}\ \mathrm{(kg\cdot d)}$），6 个月后如有改善，则可改为MMF $1\mathrm{g/d}$ 或AZA $2\mathrm{mg}/$（$(\mathrm{kg}\cdot\mathrm{d})$）维持治疗；如病情无改善，则改用CTX、钙  
 调磷酸酶抑制剂或利妥昔单抗等治疗。  
 LN 在诱导缓解后，维持缓解的免疫抑制治疗需要3 年以上甚至终身，以期获得最佳转归。如病情持续稳定，可考虑先撤掉激素。  
 # 46. AZA 用药前应检测6 - 巯基甲基转移酶，合并使用别嘌呤醇的患者应考虑AZA 减量  
 AZA 在体内代谢成6- 巯基嘌呤（6-mercaptopurine，6-MP），随后6-MP 可经3 种不同相互竞争的代谢途径完成后续代谢过程，黄嘌呤氧化酶（xanthine oxidase，XO）或巯基嘌呤甲基转移酶（thiopurine S- methyl transfer as e，TPMT）将6-MP 分解成为无活性产物，6-MP 经由次黄嘌呤- 鸟嘌呤磷酸核糖转移酶（ hypoxanthine-guanine phosphor i bo syl transfer as e ， HGPRT ）代谢 成活性代谢产物。如果XO 和TPMT 途径被中断，则更多的6-MP通过HGRPT 代谢，产生更多的活性代谢产物，从而导致过强的免疫抑制作用和严重的骨髓抑制。  
-因编码TPMT 的基因多态性导致部分患者TPMT 活性低，若AZA 使用常规剂量，可出现严重骨髓抑制。因此，对于有条件的医院及患者，用药前最好行血TPMT 水平或TPMT 基因型检测。基于TPMT 基线检测水平决定AZA 最大用量：TPMT${\backslash}{<}5.00$，禁用AZA；TPMT 为$5.0\sim13.7\mathrm{U}$，AZA 最大剂量为$0.5\mathrm{mg/\Omega}\ \mathrm{(kg\cdotd)}$）；TPMT 为$13.7\sim19.0\mathrm{U}$，AZA 最大剂量为$1.5\mathrm{mg/(kg\cdotd)}$TPMT＞19.0U，AZA最大剂量为$2.5\mathrm{mg/(kg\cdotd)}$）。  
+因编码TPMT 的基因多态性导致部分患者TPMT 活性低，若AZA 使用常规剂量，可出现严重骨髓抑制。因此，对于有条件的医院及患者，用药前最好行血TPMT 水平或TPMT 基因型检测。基于TPMT 基线检测水平决定AZA 最大用量：TPMT${\backslash}{<}5.00$，禁用AZA；TPMT 为$5.0\sim13.7\mathrm{U}$，AZA 最大剂量为$0.5\mathrm{mg/\Omega}\ \mathrm{(kg\cdot d)}$）；TPMT 为$13.7\sim19.0\mathrm{U}$，AZA 最大剂量为$1.5\mathrm{mg/(kg\cdot d)}$TPMT＞19.0U，AZA最大剂量为$2.5\mathrm{mg/(kg\cdot d)}$）。  
 XO 可被别嘌呤醇抑制，因此接受别嘌呤醇治疗的患者其AZA使用剂量应减量。  
 # 47. 有生育要求的患者应选择生殖毒性小的免疫抑制剂MMF 治疗  
 生殖毒性是CTX 常见的不良反应，CTX 累积量越大，性腺抑制发生率越高。性腺抑制在女性表现为卵巢功能早衰，出现月经紊乱甚至闭经；男性表现为少精或无精症。因此，对于有生育要求的患者应尽可能选择MMF 治疗。另外，CTX 有致胎儿畸形的风险，对于育龄期男性或女性患者，在用药期间及终止服药后6 个月内均要避孕。  

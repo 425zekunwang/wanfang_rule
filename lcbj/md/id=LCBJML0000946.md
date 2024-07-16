@@ -3,7 +3,7 @@
 那些HLA-DRB1-15 阳性、骨髓增生降低、染色体核型正常、IPSS 低危度组、存在有PNH 克隆的患者和红细胞输注时间
 $<2$ 年且需要治疗的患者，可选用环孢霉素$\left[3\mathrm{{mg/\Phi}\left(k g{\cdot}d\right)\Phi}\right]$ 和
 $\mathrm{{ATG}[40\mathrm{{mg}/\hbar~(\mathrm{{kg}\cdot\mathrm{{d})\hbar~}}]}}$] 治疗。  
-我们采用口服CsA 联合沙利度胺（thalidomide）治疗IPSS危险度评分为低危或中危Ⅰ患者76 例，CsA 的起始剂量为$3\mathrm{m}\mathrm{g}/$$({\mathrm{kg}}\cdot{\mathrm{d}})$），2 周后检测CsA 血药浓度，并根据血药浓度调整CsA剂量，使其谷浓度保持在$100\sim200\mathrm{ng/ml}$，最终CsA 的用量为$3\sim5\mathrm{{m}g/\Omega\left(\mathrm{{kg}{\cdot}d\right)}}$）。沙利度胺的用药剂量为$50\mathrm{mg}$，每日睡前口服。治疗 12  周后未达血液学改善（ hematologic improvement ， HI ）则 改用其他治疗方案，有效患者如无Ⅲ级以上药物不良反应，持续服用至HI 后进展或复发。40 例（40/76，$53\%$）患者获得了$\mathrm{HI}$。73 例治疗前血红蛋白$<110\mathrm{g/L}$ 患者，治疗后31 例（$43\%$）获得  
+我们采用口服CsA 联合沙利度胺（thalidomide）治疗IPSS危险度评分为低危或中危Ⅰ患者76 例，CsA 的起始剂量为$3\mathrm{m}\mathrm{g}/$$({\mathrm{kg}}\cdot{\mathrm{d}})$），2 周后检测CsA 血药浓度，并根据血药浓度调整CsA剂量，使其谷浓度保持在$100\sim200\mathrm{ng/ml}$，最终CsA 的用量为$3 \sim 5 \mathrm{mg/(\Omega \cdot (kg \cdot d))}$）。沙利度胺的用药剂量为$50\mathrm{mg}$，每日睡前口服。治疗 12  周后未达血液学改善（ hematologic improvement ， HI ）则 改用其他治疗方案，有效患者如无Ⅲ级以上药物不良反应，持续服用至HI 后进展或复发。40 例（40/76，$53\%$）患者获得了$\mathrm{HI}$。73 例治疗前血红蛋白$<110\mathrm{g/L}$ 患者，治疗后31 例（$43\%$）获得  
 红系反应（HI-E）。50 例治疗前中性粒细胞绝对计数$<1.0\times10^{9}/$L 患者，治疗后15 例（$30\%$）获得中性粒细胞反应（HI-N）。58例治疗前血小板计数$<100\times10^{9}/\mathrm{L}$ 患者，治疗后18 例（$(31\%)$）获得血小板反应（HI-P）。治疗有效患者的总体中位有效持续时间为22（$1\sim131^{+}$）个月。  
 #  应用来那度胺治疗5q －综合征  
 来那度胺（revlimid）是沙利度胺的类似物，是在沙利度胺邻苯二酰环的第4 位引入1 个氨基并去除环上的羰基后形成的一种新的化合物。作为第二代免疫调节药物（immuno-modulating drug，IMiD），来那度胺的化学性质比沙利度胺更稳定，抗肿瘤、免疫调节等作用更强，同时克服了沙利度胺常见的不良反应。  

@@ -17,7 +17,8 @@ $\textcircled{4}$Kveim-Siltzbach 试验阳性反应。
 $\mathcal{S}$SACE 活性升高。  
 $\textcircled{6}$5U 旧结核菌素皮肤试验为阴性或者弱阳性反应。  
 $\textcircled{\scriptsize{2}}$高血钙、尿钙症、碱性磷酸酶升高，血浆免疫球蛋白升高，支气管灌洗液中T 淋巴细胞及亚群的检查结果可作为诊断肺结节病的参考。  
-有条件的可做镓67 放射性核素注射后$\gamma$ 照相，以了解病变侵犯的程度和范围（第$\widehat{\left(\b{2}\right)}\left(\widehat{\left.\b{3}\right)}\left(\widehat{\left.\b{4}\right)}$条为主要依据。第$\textcircled{\textregistered}\textcircled{\textregistered}$条为重要的参考标准，注意综合诊断，动态观察）。  
+有条件的可做镓67 放射性核素注射后$\gamma$ 照相，以了解病变侵犯的程度和范围（第$\widehat{(2)}, \widehat{(3)}, \widehat{(4)}$
+条为主要依据。第$\textcircled{\textregistered}\textcircled{\textregistered}$条为重要的参考标准，注意综合诊断，动态观察）。  
 （2）国内1994 年的标准  
 1994 年《中华结核和呼吸杂志》对该标准进行了修订，进一步提出了肺结节病临床诊断、病理诊断、分型和活动性判定标准，为肺结节病正确诊断推进了一大步，但由于很多先进装备那时还没有，所以仍有不少与临床诊断需求不符之处。其临床诊断和病理诊断标准如下：  
 1 ）肺结节病临床诊断  

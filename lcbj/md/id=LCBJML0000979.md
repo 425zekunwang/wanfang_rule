@@ -102,7 +102,7 @@ BASDAI  是最早被大多数专家认可的、应用较为广泛的评价 AS �
 虽然BASDAI 操作简单，在临床研究中广泛应用，在评价药物治疗反应时也具有非常重要的意义，但BASDAI 完全是基于患者对自己病情的主观评价，并且有$50\%\sim70\%$的患者没有外周关节受累，这部分患者会由于BASDAI 中的问题3（外周关节疼痛程度）评分较低影响BASDAI 的最终结果；且BASDAI 中未加入任何客观指标或临床医师的评价，医师和患者在判断病情活动度时有不同的观点，单纯依靠患者的自我评价不能准确地反映其病情活动度，只能反映患者病情的一部分；此外，该指数以其5 个项目的平均分为其最终得分，并未将各指标间的权重和相关性考虑在内，因此BASDAI 不能从整体上反映患者的疾病活动性。  
 2009 年国际脊柱关节炎评价工作组制定了一项新的用于评价AS 病情活动度的指标（ASDAS），它是一个综合了患者主观评价及实验室客观指标的病情活动评分系统，由5 个变量组合成一个计算公式，这5 个变量分别为：腰背痛、晨僵持续时间、患者总体评价、ESR 和CRP。它共计有4 个ASDAS 指数，其内容  
 及评分方法如下：$\textcircled{1}$ASDAS${\left|=\!0.122\times\right.}$ 腰背痛$+0.061\times$ 晨僵持续时间$+0.119\times$ 患者总体评价$+0.210\times\mathrm{ESR}$ 的平方根（$\mathrm{{'mm/h}},$）$\mathbf{+0.383\times\Delta}\left(\mathbf{CRP+1}\right)$）的自然对数（$\mathrm{(mg/L)}$）；$\textcircled{2}$ASDAS$2{=}0.079\times$腰背痛$+0.069\times$ 晨僵持续时间$+0.113\times$ 患者总体评价$+0.086\times$周关节疼痛/ 肿胀$+0.293\times\mathrm{ESR}$ 的平方根；$\textcircled{3}$ASDAS3$=
-$$0.121\times$ 腰背痛$+0.058\times$ 晨僵持续时间$+0.110\times$ 患者总体评价
+$ $0.121\times$ 腰背痛$+0.058\times$ 晨僵持续时间$+0.110\times$ 患者总体评价
 $+0.073\times$ 周关节疼痛/ 肿胀$\begin{array}{r l}{+0.579\times}&{{}\big(\mathrm{CRP}{+1}\big)}\end{array}$）的自然对数；
 $\textcircled{4}$ASDAS$4{=}0.152\times$ 腰背痛$+0.069\times$ 晨僵持续时间$+0.078\times$ 疲倦$+0.224\times\mathrm{ESR}$ 的平方根$\mathrm{+0.400\times\Delta\left(C R P{+}1\right)}$）的自然对数。对腰背痛、患者总体评价、晨僵持续时间、外周关节疼痛/ 肿胀均用“$^\mathrm{\textregistered}10\mathrm{cm}^{\textmd P}$”的视觉模拟评分尺来衡量（$0\sim10$ 分）。  
 腰背痛：BASDAI 第2 个问题；晨僵持续时间：BASDAI 第6 个问题；外周关节疼痛/ 肿胀：BASDAI 第3 个问题；疲倦：BASDAI 第1 个问题。  

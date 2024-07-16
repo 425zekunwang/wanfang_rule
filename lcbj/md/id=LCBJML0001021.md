@@ -33,7 +33,17 @@ logit $\mathrm{(\pi)}\;=\;2.68\;+\;\left(-5.41\times10^{-2}\right.$ ； gestatio
 $\begin{array}{r l}&{+\ 1.23\ \mathrm{~(best~pair~or~dsponea)~}+\ (-2.71\times10^{-2},\mathrm{~precatinine)}}\\ &{+\ \mathrm{(}2.07\times10^{-1},\mathrm{~platelets)~}+\ \mathrm{(}4.00\times10^{-5},\mathrm{~platelets^{2})}}\\ &{+\ \mathrm{(}1.01\times10^{-2},\mathrm{~varpi~trans~aminse)~}+\ \mathrm{(}-3.05\times10^{-6},\mathrm{~AT^{2})}}\\ &{+\ \mathrm{(}2.50\times10^{-4},\mathrm{~precatinine}\times\mathrm{platelet)}}\\ &{+\ \mathrm{(}-6.99\times10^{-5},\mathrm{~platelet\times\mathrm{aspratt z~transminuse})}}\\ &{+\ \mathrm{(}-2.56\times10^{-3},\mathrm{~platelet\times\mathrm{SpO_2~})}}\end{array}$  
 由于低收入地区医疗资源有限，同一工作组2014 年在中低收入国家进行了另一项前瞻性多中心研究、建立了MiniPIERS多因素预测模型，并发表在《PLOS Medicine》杂志。该模型对预测48 小时内子痫前期不良产妇结局发生的AUC 为0.768。MiniPIERS 模型纳入因素及公式如下：  
 logit（logarithm of the odds）（pi）  
-$\begin{array}{r l}&{=-5.77+[-2.98\times10^{-1}\mathrm{~and~factor~of~multiplying}]}\\ &{+\;\left(\;\left(-1.07\right)\times\mathrm{log~constant~angle~at~adBiglcirc}\;\right)}\\ &{+\;\left[\;\left(1.34\times\mathrm{log~std~black~pressure}\right)\right.}\\ &{+\;\left[\;\left(-2.18\times10^{-1}\right)\mathrm{~and~factor~of~2+dimckert~projlimvian}\right]}\\ &{+\;\left[\;\left(4.24\times10^{-1}\right)\times\mathrm{~indicator~for~3-diopt~textstyle~proj}\right]}\\ &{+\;\left[\;\left(5.12\times10^{-1}\right)\;\times\mathrm{~mid~dot~for~4+dimckert~projecmarginal}\right]}\\ &{+\;\left[\;\left(1.18\times\mathrm{in~diag}\;\mathrm{for~occurrences~of~virial~bled~with~abnormal~pair}\right.}\\ &{+\;\left[\;\left(4.22\times10^{-1}\right)\;\times\mathrm{~mid~dot~for~6-land c e~over~using~at~sl~change}\right]}\\ &{\left.\left.-84.78\times10^{-1}\right.\right.\mathrm{in~index~for~the~per~in~space}\mathrm{of~periodic~over~sl~domain~}\right]}\end{array}$  
+\begin{array}{rl}
+& = -5.77 + [-2.98 \times 10^{-1} \mathrm{~and~factor~of~multiplying}] \\
+& \quad + \left( (-1.07) \times \mathrm{log~constant~angle~at~adBiglcirc} \right) \\
+& \quad + \left[ \left( 1.34 \times \mathrm{log~std~black~pressure} \right) \right] \\
+& \quad + \left[ \left( -2.18 \times 10^{-1} \right) \mathrm{~and~factor~of~2+dimckert~projlimvian} \right] \\
+& \quad + \left[ \left( 4.24 \times 10^{-1} \right) \times \mathrm{~indicator~for~3-diopt~textstyle~proj} \right] \\
+& \quad + \left[ \left( 5.12 \times 10^{-1} \right) \times \mathrm{~mid~dot~for~4+dimckert~projecmarginal} \right] \\
+& \quad + \left[ \left( 1.18 \times \mathrm{in~diag~for~occurrences~of~virial~bled~with~abnormal~pair} \right) \right. \\
+& \quad + \left. \left[ \left( 4.22 \times 10^{-1} \right) \times \mathrm{~mid~dot~for~6-landce~over~using~at~sl~change} \right] \right] \\
+& \quad - 84.78 \times 10^{-1} \mathrm{~in~index~for~the~per~in~space~of~periodic~over~sl~domain}
+\end{array}
 #  早发型和晚发型被普遍接受为子痫前期的亚型  
 常用的子痫前期的分型包括：早发型和晚发型、复发型与非复发型、轻度和重度、不同高危因素的子痫前期。临床上，常把子痫前期按照轻度和重度，伴有胎儿宫内生长受限（ FGR ）和不 伴FGR 进行分类。另外，由于子痫前期在不同产妇中表现为不同的靶器官损坏，可以按照主要受累的器官（肝、肾、心血管、神经系统或胎盘）进行分类。  
 早发型和晚发型子痫前期具有不同的特征，目前被普遍接受为子痫前期的亚型。二者通常以妊娠34 周为界，虽然某些指南中提到$\spadesuit<34$ 孕周发病”，但已有学者认为应以分娩时间为界而不是发病时间，在临床研究中将早发子痫前期限定为因病情而不得不在34 周前终止妊娠，而不是简单的34 孕周前发病，因为前者更加客观，后者可能受到主观偏倚，特别是诊断前是否能够收集到足够的临床资料的影响。也有研究将妊娠早发型与晚发型的界限定义为妊娠32 周或妊娠36 周。早发型子痫前期发生胎儿生长受限、围产儿死亡、产妇死亡、复发的风险均显著高于晚发型，而初产率较低。另外，产妇远期发生代谢综合征、心血管病变、肾病及子代心血管病变的风险其早发型也高于晚发型。早发型子痫前期的产妇发生心血管疾病的风险是正常人群的$8\sim10$倍，而晚发型子痫前期是正常人群的 2  倍。  
