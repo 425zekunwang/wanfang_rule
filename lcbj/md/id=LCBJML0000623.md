@@ -13,5 +13,5 @@
 2012 年Mattano 等在《Lancet Oncology》杂志上发表了新的报道，在一项纳入2056 例急性淋巴细胞白血病（acute  
 lymphoblastic leukemia，ALL）患者的研究中，研究者通过改变激素给药的方式，使得在不降低疗效的情况下，减少了骨坏死的发生率。他们发现，通过间断给药而非连续给药的方式，能够使骨坏死的发生率变化如下：10 岁以上的患儿为$17.0\%\mathrm{~\longrightarrow~}8.7\%
 $（$\langle P{=}0.0005\rangle$）；将年龄局限到16 岁以上时，这一发生率为$37.5\%$ 
-$\longrightarrow11.3\%$（$\scriptstyle{\mathit{P}}=0.0003$）；其中女性为$43.9\%\longrightarrow17.2\%(\$$\scriptstyle{\mathit{(P=0.05}}$）；男性为$34.6\%~\longrightarrow~7.7\%$（$\scriptstyle(P=0.0014)$）。这提示了激素在发挥作用时，其使用模式可能比剂量更值得关注。  
+$\longrightarrow11.3\%$（$\scriptstyle{\mathit{P}}=0.0003$）；其中女性为$43.9\%\longrightarrow17.2\% $ $\scriptstyle{\mathit{P=0.05}} $）；男性为$34.6\%~\longrightarrow~7.7\%$（$\scriptstyle(P=0.0014)$）。这提示了激素在发挥作用时，其使用模式可能比剂量更值得关注。  
 关于糖皮质激素引发股骨头坏死的病理机制、剂量效应关系的研究使我们的认知不断更新，这些研究将最终帮助我们找到治疗股骨头坏死的关键因素。  

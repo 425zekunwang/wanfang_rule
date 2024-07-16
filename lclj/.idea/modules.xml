@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://D:/pythonproject/39net/.idea/39net.iml" filepath="D:/pythonproject/39net/.idea/39net.iml" />
+      <module fileurl="file://D:/pythonproject/chaonei/.idea/chaonei.iml" filepath="D:/pythonproject/chaonei/.idea/chaonei.iml" />
+      <module fileurl="file://D:/pythonproject/haodaifu/.idea/haodaifu.iml" filepath="D:/pythonproject/haodaifu/.idea/haodaifu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../hjb/.idea/hjb.iml" filepath="$PROJECT_DIR$/../hjb/.idea/hjb.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/lclj.iml" filepath="$PROJECT_DIR$/.idea/lclj.iml" />
+      <module fileurl="file://D:/pythonproject/tmp/.idea/tmp.iml" filepath="D:/pythonproject/tmp/.idea/tmp.iml" />
+      <module fileurl="file://D:/pythonproject/wanfang/.idea/wanfang.iml" filepath="D:/pythonproject/wanfang/.idea/wanfang.iml" />
+      <module fileurl="file://D:/pythonproject/zhanzhanggongju/.idea/zhanzhanggongju.iml" filepath="D:/pythonproject/zhanzhanggongju/.idea/zhanzhanggongju.iml" />
     </modules>
   </component>
 </project>
