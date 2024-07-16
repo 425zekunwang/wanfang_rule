@@ -42,21 +42,21 @@ MELD$\gimel=9.57\times L n$（肌酐$\mathrm{mg/dl}$）$+3.78\times L n$（胆�
 计算结果四舍五入取整，当3 个参数存在$<1$ 的情况时设为1。  
 MELD 评分的使用有效降低了等待肝移植中的病死率，并降低了等待时间。早期研究显示，MELD 评分预测移植前肝病严重程度的效能优于Child 评分，但两者都不能预测移植后的死亡风险；但一项系统评价认为两者在评价肝硬化患者肝移植必要性上没有区别，也不能预测移植后的病死率。Updated MELD 基于2001—2006 年间38 899 例患者的分析降低了肌酐和INR 权重，提高了胆红素权重。  
 MELD 评分仍是目前被广泛认可和使用的肝硬化患者预后评估量化标准。  
-Updated MELD $\scriptstyle1.266\timesL n$ （ $1+$  肌酐） $+0.939\times L n$ （ $1+$ 胆红素）$+1.658\times L n$（${\mathrm{1+INR}}_{,}$）  
+Updated MELD $\scriptstyle 1.266\times Ln$ （ $1+$  肌酐） $+0.939\times L n$ （ $1+$ 胆红素）$+1.658\times L n$（${\mathrm{1+INR}}_{,}$）  
 MELD 在预测急性肝衰竭患者病死率中的价值在不同的研究中结论不同。一项研究显示MELD 评分可以有效预测对乙酰氨基酚中毒患者是否会进展为急性肝衰竭，但不能预测进展为急性肝衰竭后的病死率。  
 （5）MELD 评分的改进：MELD 评分推出后，科学家提出了很多改进的MELD 评分。  
 $\textcircled{1}$ MELD-Na  ： 低钠血症是终末期肝病患者死亡的危 险因素，Biginns 和Kim 等人在2006 年提出了MELD-Na模型。血钠反映了肾功能，在难治性腹水伴严重低钠血症（$\mathit{\check{\Pi}}<125\mathrm{mmol/L}\mathit{\check{\Pi}}$）的患者中，血钠对死亡的预测优于MELD评分，血钠在 $125\sim140\mathrm{mm}/\mathrm{L}$  范围内，每降低 1mmol/L 死亡率增加$5\%$。MELD-Na 模型预测效能稍微高于MELD评分（c-statistic $0.878\ \nu s.\ 0.865$，$p<0.01$）。Rreﬁt MELD（肌酐的范围限定为$0.8\sim3.0\mathrm{mg/d1,INR}$ 范围限定为$1\sim3$）及ReFit MELD-Na 进一步提升了它的预测效能。  
 $M E L D-N a=M E L D-N a-[0.025\times M E L D\times(140{-}N a)\ \ ]+140$ $\textcircled{2}$MESO 评分：Huo 等人在2007 年提出MESO 评分，  
 # 138中国医学临床百家丛书肝衰竭新进展  
 认为MESO 评分与Child 评分和肝静脉压力梯度（hepatic venous pressure gradient，HVPG）有较好的相关度。在Child  评分 A  级和 B  级的肝硬化患者中其预测三月生存率 的效能显著优于MELD 评分。MESO 评分公式如下：  
-MESO index$\it{\Delta}$（MELD Score/SNa mEq/L）$\times10$  
+MESO index $\it{\Delta}$（MELD Score/SNa mEq/L）$ \times 10$  
 $\textcircled{3}$iMELD 评分：2007 年，Luca 等人提出iMELD（integrated MELD）评分。Kim 等人认为iMELD 在判断经过急诊手术和全身麻醉的肝硬化患者总体病死率方面效果优于Child评分和其他基于MELD 的评分（MELD-Na、MESO）。另一项研究表明，iMELD 在乙肝慢加急性肝衰竭的预后预测中优于其他评分。  
 $$
 i M E L D=M E L D+0.3\times a g e-0.7s o l d i u m+100
 $$  
-（ 6 ） CLIF-SOFA  评分：近来 Moreau  等根据欧洲 CANONIC 研究的数据建立了一个基于SOFA 评分的CLIF-SOFA 系统。该研究将肝硬化基础上的慢加急性肝衰竭标准定义为：$\textcircled{1}$2 个以上器官衰竭；$\textcircled{2}$单独肾功能衰竭；$\textcircled{3}$1个器官衰竭合并肾功能不全（肌酐 $1.5\sim1.9~\mathrm{mg/d1}.$）或者轻、中度肝性脑病。CLIF-SOFA 慢加急性肝衰竭1 级定义为：$\textcircled{1}$单独肾功能衰竭；$\textcircled{2}$单器官衰竭（肝、凝血、循环、呼吸）合并肾功能不全或者轻、中度肝性脑病； $\textcircled{3}$ 肝性脑 病Ⅲ度以上合并肾功能不全。其28 天和90 天病死率分别为$22.1\%$ 和$40.7\%$。CLIF-SOFA 慢加急性肝衰竭2 级定义为2 个器官衰竭，其28 天和90 天病死率分别为$32.0\%$ 和$52.3\%$。CLIF-SOFA 慢加急性肝衰竭3 级定义为3 个及以上器官衰竭，其28 天和90 天病死率分别为$76.7\%$和$79.1\%$（表9）。  
+（ 6 ） CLIF-SOFA  评分：近来 Moreau  等根据欧洲 CANONIC 研究的数据建立了一个基于SOFA 评分的CLIF-SOFA 系统。该研究将肝硬化基础上的慢加急性肝衰竭标准定义为： $\textcircled{1}$ 2 个以上器官衰竭；$\textcircled{2}$单独肾功能衰竭；$\textcircled{3}$1个器官衰竭合并肾功能不全（肌酐 $1.5\sim1.9~\mathrm{mg/d1}.$）或者轻、中度肝性脑病。CLIF-SOFA 慢加急性肝衰竭1 级定义为：$\textcircled{1}$单独肾功能衰竭；$\textcircled{2}$单器官衰竭（肝、凝血、循环、呼吸）合并肾功能不全或者轻、中度肝性脑病； $\textcircled{3}$ 肝性脑 病Ⅲ度以上合并肾功能不全。其28 天和90 天病死率分别为$22.1\%$ 和$40.7\%$。CLIF-SOFA 慢加急性肝衰竭2 级定义为2 个器官衰竭，其28 天和90 天病死率分别为$32.0\%$ 和$52.3\%$。CLIF-SOFA 慢加急性肝衰竭3 级定义为3 个及以上器官衰竭，其28 天和90 天病死率分别为$76.7\%$和$79.1\%$（表9）。  
 # 140中国医学临床百家丛书肝衰竭新进展  
 （7）Royal Free Hospital 评分：Theocharidou 等人于2014 年 提出适合ICU 肝硬化患者预后评价的系统：Royal Free Hospital 评分，其预测预后的效能和CLIF-SOFA 评分相当。  
-RFH score${=}2.692{-}0.996\times6$variceal bleeding）$+0.003$ $\times\ (b i l i r u b i n)\left.+0.358\times(I N R)\left.+0.136\times(l a c t a t e)\right.$ $+0.004\times\left(A{\mathrm{-}}ag r a d i e n t\right)\ +0.036\times\left(u r e a\right)$  
+RFH score ${=}2.692{-}0.996\times 6 $ variceal bleeding）$+0.003 $ $\times $(bilirubin) + 0.358 $\times $ (INR) + 0.136 $ \times $ (lactate) $+0.004\times\left(A{\mathrm{-}}ag r a d i e n t\right)\ +0.036 \times \left(u r e a\right)$  
 （8）代谢组学模型：我们团队利用代谢组学方法建立了乙肝肝衰竭的预后预测模型。其中基于气相色谱/ 质谱技术的代谢组学研究显示，MELD 评分不同的乙肝肝衰竭患者其代谢谱有显著差异$\{{\mathrm{Yu}},\ 2007\ \#32\}$。另一项基于液相色谱/ 质谱平台的研究发现，代谢组学模型具有基于MELD 评分的乙肝慢加急性肝衰竭预后预测能力{Hao，2011 #33}，MELD 评分ROC 曲线下面积0.737 ，诊断敏感度为 $63\%$ ，特异度为 $79\%$ ，代谢组学模型的 ROC  曲线 下面积为0.959，敏感度为$86.8\%$，特异度为$93.4\%$。  
-Y= 1.15773+oleamide$\times\big(-0.000611603\big)$）+stearamide $\times\left.0.000368365{+}G C D C4\times\left(-0.000491698\right)\right.$ ） $+$ myristamide   × 0.000648956+  palmitamide × 0.00083914+ TCDCA   $\times\left(-0.000745998\right)$）  
+Y= 1.15773+oleamide $\times\big(-0.000611603\big)$）+stearamide $\times\left.0.000368365{+}G C D C4\times\left(-0.000491698\right)\right.$ ） $+$ myristamide   × 0.000648956+  palmitamide × 0.00083914+ TCDCA   $ \times\left(-0.000745998\right)$）  

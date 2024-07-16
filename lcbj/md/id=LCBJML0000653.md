@@ -17,25 +17,20 @@ Beck and Leighninger 于1954 年，首先采用缩小冠状窦内径，增加冠
 冠状窦支架——顽固性心绞痛的新选择181  
 # （2）冠状窦支架系统的组成  
 现有的冠状窦支架系统——Reducer（Neovasc Medical，Inc.，Or Yehuda，Israel）系统由球囊导管以及支架组成（图23）。，导致冠状静脉窦狭窄，从而增加冠状静脉窦压力。支架的材料为316L不锈钢，呈沙漏状，其最终扩张直径由球囊扩张导管的压力决定（图24）。球囊导管也呈现出沙漏状。近远端直径有所不同以适应冠状窦直径的变化。远端的两个标记显示支架的远端和近端的皱褶边缘。第三个标记用于协助术者明确球囊导管与指引导管的关系（图25）。  
-[ 图片来源：Verheye S，Jolicceur EM，Behan MW，et al. Efficacy of a device to  narrow the coronary sinus in refrac tory angina. N Engl J Med，2015，372（6）：519-527.]  
-[ 图片来源：Verheye S，Jolicceur EM，Behan MW，et al. Efficacy of a device to  narrow the coronary sinus in refractory angina. N Engl J Med，2015，372（6）：519-527.]  
-[ 图片来源：Verheye S，Jolicceur EM，Behan MW，et al. Efficacy of a device to  narrow the coronary sinus in refractory angina. N Engl J Med，2015，372（6）：519-527.]  
 动物实验显示植入冠状窦支架即刻，通过支架压差为3.71 ± 1.75 ） mmHg ， 6  个月后为（ $(2.83\pm1.47)~\mathrm{mmHg}.$ 。临   床前试验显示，在八头心肌缺血小型猪模型中，四头植入冠状窦支架，四头作为对照。180 天后采用多巴酚丁胺负荷超声心动图评价，四头植入组心肌缺血都有改善，而且全部存活，而对照组不仅没有改善，还有三头死亡。  
 # （3）冠状窦支架临床研究  
 冠状窦支架首次运用于人类的研究发表于2007 年。该研究入选了不能再进行血运重建的15 名$\mathrm{LVEP}>30\%$的顽固性心绞痛患者，研究的主要终点是安全性即6 个月MACEs，包括死亡、心肌梗死、冠状窦穿孔、冠状窦梗阻以及需要急性冠状窦扩张。次要终点是技术成功率。所有患者均成功植入冠状窦支架，随访期间无MACEs 发生。患者心绞痛评分、负荷心电图 ST  段改变、多巴酚丁胺负 荷超声心动图心肌缺血程度都得到不同程度的改善。  
 2015 年发表在《新英格兰医学杂志》的COSIRA 研究进一步探讨了冠状窦支架在顽固性心绞痛中的作用。COSIRA 研究是一个多中心、随机、双盲、假手术对照的临床研究，探讨冠状窦支架术对顽固性心绞痛的有效性和安全性，由于有假手术组，可以排除安慰剂效应。研究入选了104 名18 岁以上经过充分药物治疗（包括$\eta$ 受体阻滞药、钙离子拮抗药、尼卡地尔、伊伐布雷定、长效或短 效硝酸酯类药等）后仍有$\mathrm{CCS\;III\!\sim\!\Gamma\!V}$级心绞痛发作的患者，  
-# 184中国医学临床百家丛书冠心病  霍勇 推荐$\mathcal{D A O}$观点  
+# 中国医学临床百家丛书冠心病  霍勇 推荐$\mathcal{D A O}$观点  
 所有患者均有可逆性心肌缺血的证据，$\mathrm{LVEP}>25\%$，经过心脏团队评价不考虑再进行血运重建。主要排除标准为6 个月内血运重建、3 个月内的急性冠状动脉综合征或植入永久起搏器或ICD 患者。  
 预设主要终点为6 个月CCS 心绞痛分级与基线相比增加2 级或以上。患者平均年龄为（$(67.8\pm9.4)\$）岁（$35\sim87$岁），男性占$81\%$，器械植入成功率为$96\%$。两例不成功者由于冠状窦静脉瓣的原因使器械不能到位。在主要终点方面，器械植入组与假手术组对比，改善率分别为$35\%$和$15\%$（$\scriptstyle P=0.02,$）。治疗组$71\%$ 的患者有至少一级的CCS 心绞痛改善，而对照组改善率为$42\%$（$\langle P{=}0.02$）（图26）。生活质量方面，西雅图心绞痛评分量表，治疗组增加17.6分，对照组增加7.6 分（$\stackrel{}{\cdot}P{=}0.048$）。在总的运动时间以及ST 段压低1mm 时间上都有不同程度改善。多巴酚丁胺超声心动图负荷试验方面，植入组和对照组在室壁运动分数上分别改善了$14\%$、$8\%$，但差异无统计学意义（$_{.}P{=}0.20,$）。器械组发生1 例围术期心肌梗死。  
 [ 图片来源：Verheye S，Jolicceur EM，Behan MW，et al. Efficacy of a device to  narrow the coronary sinus in refractory angina. N Engl J Med，2015，372（6）：519-527.]  
 # （4）手术过程和围术期准备  
 植入患者除了满足上述的临床入选标准外，还需要满足血流动力学指标和冠状窦的解剖标准，需要除外以下情况： $\textcircled{1}$ 平均右心房压 $\geqslant15\mathrm{mmHg}$ 。 $\textcircled{2}$ 冠状窦造影显示的冠 状窦解剖：a. 冠状窦解剖异常，包括永存左上腔、冠状窦迂曲、异常分支等） ； b.  拟植入部位冠状窦直径 $<9.5\mathrm{mm}$ 或 $>13\mathrm{mm}$。  
 入路一般选择右侧颈内静脉，术前需要测量右心房压，进行冠状窦造影，采用$\mathrm{LAO30}^{\circ}$°。使用9F 指引导管放入冠状窦，选择植入直径比靶部位直径大 1.1  倍的支架。  
-# 186中国医学临床百家丛书冠心病  霍勇 推荐$\mathcal{D A O}$观点  
+# 中国医学临床百家丛书冠心病  霍勇 推荐$\mathcal{D A O}$观点  
 植入冠状窦支架（支架中段最窄处直径$3\mathrm{mm}.$），可以植入的冠状窦两端直径在$7\sim13\mathrm{mm}$。放置在$\mathbf{X}$ 线指引下，采用预塑形指引导管，理想的放置部位依据血管直径而定，避免放到分叉部位。支架达到合适位置后，以$2\sim4$大气压充盈球囊（如果需要去除狭窄的话，以8 个大气压充盈球囊，可以使冠状窦支架成为管状，从而使狭窄消失）使支架贴壁（图27）。放置后复查冠状窦造影，了解放置位置是否合适，冠状窦内径是否有效减少，支架是否移位，有无血栓形成和夹层等（图28）。  
-[ 图片来源：Banai S，Ben Muvhar S，Parikh KH，et al. Coronary sinus reducer  stent for the treatment of chronic refractory angina pectoris：a prospective，open- label，multicenter，safety feasibility first-in-man study. J Am Coll Cardiol， 2007，49（17）：1783-1789.]  
-[ 图片来源：Banai S，Ben Muvhar S，Parikh KH，et al. Coronary sinus reducer  stent for the treatment of chronic refractory angina pectoris：a prospective，open- label，multicenter，safety feasibility first-in-man study. J Am Coll Cardiol， 2007，49（17）：1783-1789.]  
 术前给予阿司匹林$81\sim100\mathrm{mg}$至少3 天，氯吡格雷75mg 至少７天（或术前24 小时内负荷$300\sim600\mathrm{ms},$）。也可使用普拉格雷术前24 小时内使用$60\mathrm{mg}$。术后双联抗血小板至少持续6 个月，然后依据病情可改为单联抗血小板治疗。  
 总之，伴随急性心肌梗死以及冠心病治疗技术以及人口老龄化等因素，顽固性心绞痛患病人数还在持续增加。除了药物治疗进展外，器械治疗也在不断发展中。现有研究证明冠状窦支架植入术安全有效，可望用于顽固性心绞痛的治疗，但目前尚缺乏针对心血管事件改善的研究。该项技术目前主要用于治疗顽固性心绞痛，未来有可能应用  
-# 188中国医学临床百家丛书冠心病  霍勇 推荐$\mathcal{D A O}$观点  
-。需 要进行更多的临床研究来丰富这一疗法。  
+# 中国医学临床百家丛书冠心病  霍勇 推荐$\mathcal{D A O}$观点  
+需要进行更多的临床研究来丰富这一疗法。  
