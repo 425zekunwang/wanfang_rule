@@ -12,8 +12,8 @@
 注：DCA，dichloroacetate，二氯乙酸。  
 彩插5　血糖波动对肿瘤病灶的影响（见正文177 页）  
 注：A，血糖稳定；B，血糖波动。大小提示肿瘤病灶大小，红点代表细胞脱落。引自 Kim Y，Roh S，Lawler S ， at al. miR451 and AMPK mutual antagonism in glioma cell migration and proliferation: a  mathematical model. PLoS One，2011，6（12）：e28293，引用时有修改。本图说明：持续供给葡萄糖，肿瘤体积将不断增大；葡萄糖供给及血糖波动时，肿瘤体积增大更快，肿瘤细胞脱落而发生转移。  
-彩插6　口服$\mathrm{\Omega}_{\mathrm{0}-3}$ 脂肪酸对胰腺癌患者体重的影响（见正文179 页）  
-注：20 例不可切除胰腺癌患者每天口服2 罐肠内营养剂（每罐含$310\mathrm{kcal}$，$16.1\mathrm{g}$ 蛋白质，$1.09\mathrm{g}$ EPA）后，患者中位体重明显增加，与不含EPA 的肠内营养剂相比，差异显著。引自Barber MD ， Ross JA ， Voss AC ， at al. The effect of an oral nutritional splement enriched with fish oil on  weight-loss in patients with pancreatic cancer. Br J Cancer，1999，81（1）：80-86，引用时有修改。  
+彩插6　口服$ \mathrm{\Omega}_{\mathrm{0}-3}$     脂肪酸对胰腺癌患者体重的影响（见正文179 页）  
+注：20 例不可切除胰腺癌患者每天口服2 罐肠内营养剂（每罐含$ 310\mathrm{kcal}$    ，$ 16.1\mathrm{g}$     蛋白质，$ 1.09\mathrm{g}$     EPA）后，患者中位体重明显增加，与不含EPA 的肠内营养剂相比，差异显著。引自Barber MD ， Ross JA ， Voss AC ， at al. The effect of an oral nutritional splement enriched with fish oil on  weight-loss in patients with pancreatic cancer. Br J Cancer，1999，81（1）：80-86，引用时有修改。  
 注：引自  Colman RJ ， Anderson RM ， Johnson SC ， et al. Caloric restriction delays disease onset and  mortality in rhesus monkeys.Science，2009，325（5937）：201-204。  
 彩插8　肠道菌群分布示意图（见正文208 页）  
 注：小肠营养物质丰富，以变形菌、乳杆菌、丹毒丝菌为主要菌群；大肠营养物质稀少，上述细菌较少，不易消化的营养物质较多，梭菌及拟杆菌丰富，它们消化大肠中不易消化的膳食纤 维。引自  Kamada N ， Chen G Y ， Inohara N ， et al. Control of pathogens and pathobionts by the gut  microbiota. Nat Immunol，2013，14（7）：685-690。  

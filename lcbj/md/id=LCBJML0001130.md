@@ -15,8 +15,8 @@
 摘自：Liu J，Li S，Deng G，et al. Ultrasound biomicroscopic imaging in paediatric ocular toxocariasis.  Br J Ophthalmol，2017，101（11）：1514-1517.  
 彩插8　眼弓蛔虫病患者UBM 表现（见正文第074 页）  
 彩插9　眼弓蛔虫病患眼行玻璃体手术，为避开周边玻璃体视网膜病变区，调整切口的钟点位置（眼内灌注由常规的颞下或鼻下象限改为上方）（见正文第076 页）  
-彩图10　$0\sim3$ 岁筛查目标和筛查时间（见正文第082 页）  
-注：A 患儿，女，左眼为无晶状体眼。3 月龄配戴RGPCL，Teller 视敏度卡测试右眼：6 月龄，1.6cy/cm；12 月龄，$3.2\mathrm{cy/cm}$。B 患儿，男，右眼为无晶状体眼。4 月龄配戴$+22.50\mathrm{D}$ 框架眼镜，Teller视敏度卡测试右眼：5 月龄，$0.43\mathrm{cy/cm}$；12 月龄，$0.86\mathrm{cy/cm}$。右眼内斜视$+10^{\circ}\ \sim15^{\circ}$，右眼固视困难。  
+彩图10　$ 0\sim3$  岁筛查目标和筛查时间（见正文第082 页）  
+注：A 患儿，女，左眼为无晶状体眼。3 月龄配戴RGPCL，Teller 视敏度卡测试右眼：6 月龄，1.6cy/cm；12 月龄，$ 3.2\mathrm{cy/cm}$    。B 患儿，男，右眼为无晶状体眼。4 月龄配戴$ +22.50\mathrm{D}$     框架眼镜，Teller视敏度卡测试右眼：5 月龄，$ 0.43\mathrm{cy/cm}$    ；12 月龄，$ 0.86\mathrm{cy/cm}$    。右眼内斜视$ +10^{\circ}\ \sim15^{\circ}$    ，右眼固视困难。  
   彩插12　遮盖疗法（见正文第085 页）  
 彩插13　正位视训练（见正文第085 页）  
 摘自 ： Hu A， Pei X， Ding X， et al. Combined persistent fetal vasculature ： aclassification based on high-resolution B-mode  Ultrasound and color Doppler imaging .Opthalmology，2016，123（1）：19-25.  

@@ -9,7 +9,7 @@
 彩插2　色素播散综合征患者临床表现（见正文第103 页）  
 注：A：UBM 图显示患者虹膜后凹明显，并与晶状体悬韧带和前表面接触；B：中国患者角膜后垂直梭形色素颗粒沉积；C：中国色素播散综合征患者小梁网色素颗粒沉积图；D：晶状体悬韧带色素颗粒沉积情况。  
 彩插3　小管成形术的微导管（见正文第147 页）  
-注：小管成形术需要一个直径$200\;mu\mathrm{m}$ 的柔软的微型导管来完成，这一微导管前端为一个无创钝圆$250~mu\mathrm{m}$ 的头端引导。  
+注：小管成形术需要一个直径$ 200\;mu\mathrm{m}$     的柔软的微型导管来完成，这一微导管前端为一个无创钝圆$ 250~mu\mathrm{m}$     的头端引导。  
 彩插4　Schlemm’s 管成形术手术中影像（见正文第148 页）注：A：为经外路途径；B：为房角镜引导下的经内路的途径。  
 彩插5　小梁消融术（Trabectome）示意图（见正文第151 页）  
 彩插6　Kahook Dual Blade 的外观（见正文第152 页）  
@@ -17,6 +17,6 @@
 彩插8　小梁网旁路引流支架iStent（见正文第153 页）  
 彩插9　Hydrus 微支架（见正文第155 页）  
 彩插10　增加脉络膜途径引流的植入装置（见正文第157 页）  
-注： A ： gold shunt （ GMSplus $^{+}$ ； SOLX Ltd. ， Waltham ， MA ， US ） ； B ： polypropylene  shunt （ Aquashunt ； OPKO Health ， Miami ， FL ， US ） ； C ： CyPass micro-shunt （ Transcend  Medical，Menlo Park，CA，US）；D：iStent Sra（Glaukos Corporation，Laguna Hills，CA，USA）；E：STARﬂo（iSTAR Medical，Isnes，Belgium）。  
+注： A ： gold shunt （ GMSplus $ ^{+}$     ； SOLX Ltd. ， Waltham ， MA ， US ） ； B ： polypropylene  shunt （ Aquashunt ； OPKO Health ， Miami ， FL ， US ） ； C ： CyPass micro-shunt （ Transcend  Medical，Menlo Park，CA，US）；D：iStent Sra（Glaukos Corporation，Laguna Hills，CA，USA）；E：STARﬂo（iSTAR Medical，Isnes，Belgium）。  
 彩插11　XEN 凝胶支架和推注器（Allergan，Dublin，Ireland）（见正文第159 页）  
 彩插12　InnFocusMicroShunt 示意（见正文第160 页）  

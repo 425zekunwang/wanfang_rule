@@ -1,14 +1,14 @@
 # 糖尿病黄斑水肿治疗指南解读  
 # 31.DME治疗指南的制定及遵循的原则  
-由于DME治疗的复杂性及长期性，其诊疗观念的理解及治疗方法的相对统一显得特别重要，近几年各国在治疗DR及DME方面撰写了许多诊疗指南（表10)，这些指南的制定遵循的原则包括两个方面：$\textcircled{1}$在糖尿病视网膜病变治疗的基础上制定DME治疗指南。$\textcircled{2}$指南制定过程中参考了大量的前瞻性、双盲及多中心临床研究的循证医学文献，依据这些研究结果制定出DME诊疗指南。  
+由于DME治疗的复杂性及长期性，其诊疗观念的理解及治疗方法的相对统一显得特别重要，近几年各国在治疗DR及DME方面撰写了许多诊疗指南（表10)，这些指南的制定遵循的原则包括两个方面：$ \textcircled{1}$    在糖尿病视网膜病变治疗的基础上制定DME治疗指南。$ \textcircled{2}$    指南制定过程中参考了大量的前瞻性、双盲及多中心临床研究的循证医学文献，依据这些研究结果制定出DME诊疗指南。  
 1） Photocoagulation for diabetic macular edema. EarlyTreatment Diabetic Retinopathy Study report number 1. Early Treatment Diabetic Retinopathy Study research gro. Arch Ophthalmol，1985，103 （12）: 1796-1806.  
 2） Treatment techniques and clinical guidelines for photo coagulation of diabetic macular edema. Early Treatment Diabetic Retinopathy Study Report Number 2. Early Treatment Diabetic Retinopathy Study Research Gro. Ophthalmology, 1987， 94(7) ： 761-774.  
 3） Luttrull JK, Dorin G. Subthreshold diode micropulse laserphotocoagulation （SDM）as invisible retinal phototherapy fordiabetic macular edema: a review. Curr Diabetes Rev, 2012, 8 (4): 274-284.  
 # （2）糖皮质激素治疗DME参考的主要循证医学文献  
-1） Audren F, Lecleire-Collet A, Erginay A, et al. Intravitrealtriamcinolone acetonide for diffuse diabetic macular edema: phase 2 trial comparing$4\:\mathrm{mg}$vs 2 mg.Am J Ophthalmol, 2006,142 (5） :794-799.  
+1） Audren F, Lecleire-Collet A, Erginay A, et al. Intravitrealtriamcinolone acetonide for diffuse diabetic macular edema: phase 2 trial comparing$ 4\:\mathrm{mg}$    vs 2 mg.Am J Ophthalmol, 2006,142 (5） :794-799.  
 2）Pearson PA,Comstock TL,Ip M, et al. Fluocinolone acetonide intravitreal implant for diabetic macular edema: a 3-year multicenter, randomized, controlled clinical trial. Ophthalmology, 2011， 118 (8）: 1580-1587.  
 3） Campochiaro PA， Brown DM, Pearson A, et al.Sustained delivery fluocinolone acetonide vitreous inserts provide benefit for at least 3 years in patients with diabetic macular edema. Ophthalmology，2012， 119 （10）：2125-2132.  
-4）Pacella E, Vestri AR,Muscella R, et al. Preliminary results of an intravitreal dexamethasone implant (Ozurdex $^\mathrm{\textregistered}$ )in patients with persistent diabetic macular edema. Clin Ophthalmol, 2013，7:1423-1428.  
+4）Pacella E, Vestri AR,Muscella R, et al. Preliminary results of an intravitreal dexamethasone implant (Ozurdex $ ^\mathrm{\textregistered}$     )in patients with persistent diabetic macular edema. Clin Ophthalmol, 2013，7:1423-1428.  
 （3）抗VEGF药物治疗DME参考的主要循证医学文献  
 一级i证据：RanibizumabDRCR-net，RESTORE，RISE-RIDE研究及2 年结果。二级证据：Ranibizumab READ2，RESOLVE研究及Pegaptanib，Bevacizumab，Aflibercept 相关研究。  
 1） Nguyen QD, Shah SM,Khwaja AA, et al. Two-yearoutcomes of the ranibizumab for edema of the macula in diabetes (READ-2）study.Ophthalmology，2010，117 （11）:2146-2151.  
@@ -21,21 +21,21 @@ ETDRS 指南总结：
 1) Focal photo coa gul atl on treatment of individual microaneurysms that fill with fluorescein and/or leak, as well as other points of leakage such as intraretinal microvascular abnormalities or short capillary segments.  
 2) Grid laser treatment of areas of thickened retina showing diffuse fluorescein leakage and/or capillary dropout.  
 （1）Focal 光凝  
-1）距离黄斑中心$500\sim3000mu\mathrm{m}$范围内，直接针对视网膜增厚区的微动脉瘤进行光凝。  
-2）首轮上述光凝后，若侵犯黄斑中心的水肿持续存在，可在距离黄斑中心$300\sim500mu\mathrm{m}$范围内，对视网膜增厚区的微动脉瘤进行激光光凝。  
-3）光斑大小：$50\sim60mu\mathrm{m}$，时间：$0.05\sim0.10\mathrm{s}$，波长：绿光-黄光。  
+1）距离黄斑中心$ 500\sim3000mu\mathrm{m}$    范围内，直接针对视网膜增厚区的微动脉瘤进行光凝。  
+2）首轮上述光凝后，若侵犯黄斑中心的水肿持续存在，可在距离黄斑中心$ 300\sim500mu\mathrm{m}$    范围内，对视网膜增厚区的微动脉瘤进行激光光凝。  
+3）光斑大小：$ 50\sim60mu\mathrm{m}$    ，时间：$ 0.05\sim0.10\mathrm{s}$    ，波长：绿光-黄光。  
 4）激光光斑性状：微动脉瘤颜色改变或在微动脉瘤下至少 有灰色烧灼反应。  
 （2）Grid 光凝  
-1）距离黄斑中心上方、下方、鼻侧 $500\sim3000mu\mathrm{m}$ ，颞侧 $500\sim3500mu\mathrm{m}$，无微动脉瘤区域进行光凝。  
-2）激光斑之间的间隔为激光斑宽度的$2\sim3$倍。  
-3）光斑大小：$50\sim60mu\mathrm{m}$，时间：$0.05\sim0.10\mathrm{s}$。(3）轻度黄斑grid光凝（mildmaculargridlaser） 1）间隔$2\sim3$个光斑距离，无论微动脉瘤是否存在。2）共计$200\sim300$个$50mu\mathrm{m}$光斑 （包括未增厚的视网膜）。  
+1）距离黄斑中心上方、下方、鼻侧 $ 500\sim3000mu\mathrm{m}$     ，颞侧 $ 500\sim3500mu\mathrm{m}$    ，无微动脉瘤区域进行光凝。  
+2）激光斑之间的间隔为激光斑宽度的$ 2\sim3$ 倍。  
+3）光斑大小：$ 50\sim60mu\mathrm{m}$    ，时间：$ 0.05\sim0.10\mathrm{s}$    。(3）轻度黄斑grid光凝（mildmaculargridlaser） 1）间隔$ 2\sim3$ 个光斑距离，无论微动脉瘤是否存在。2）共计$ 200\sim300$ 个$ 50mu\mathrm{m}$    光斑 （包括未增厚的视网膜）。  
 # .国际眼科（ICO）2014年DME治疗指南  
 DME治疗方案取决于黄斑中心凹是否受累及视力情况，OCT提示黄斑中心凹受累且视力低于0.5者，首选抗VEGF治疗；黄斑中心凹未受累且视力大于0.5者选用局部激光光凝治疗。  
 ICO 推荐的 DME 治疗流程见图 33。  
 # 34.英国皇家医学院（RCO）2012年DME治疗指南  
 （1）局部或格栅光凝  
 遵循 ETDRS 原则。  
-格栅光凝：必要时光斑内圈距中心凹可调至$300mu\mathrm{m}$。推荐subthreshold micropulse diode laser therapy 。  
+格栅光凝：必要时光斑内圈距中心凹可调至$ 300mu\mathrm{m}$    。推荐subthreshold micropulse diode laser therapy 。  
 (2）糖皮质激素  
 依据DRCR-net3年结果。推荐IVTA/光凝，关注 Ozurdex、ILUVIEN 并发症。  
 （3）抗VEGF药物  
@@ -44,7 +44,7 @@ ICO 推荐的 DME 治疗流程见图 33。
 # 35.英国 RCO（2012年）Maculopathy 治疗建议  
 英国皇家医学院（RCO）2012年Maculopathy治疗建议，具体建议见表11。  
 续表
-注：抗VEGF：1次/月，连续$4\sim6$个月，然后PRN，直到黄斑水肿消退，玻璃体－黄斑牵引-琉璃体手术联合或不联合激光或激素。  
+注：抗VEGF：1次/月，连续$ 4\sim6$ 个月，然后PRN，直到黄斑水肿消退，玻璃体－黄斑牵引-琉璃体手术联合或不联合激光或激素。  
 # 36.美国眼科学会（2016年）DR及DME治疗建议  
 美国眼科学会在2008年、2012年DR/DME治疗的基础上，2016年又进行了修订，增加了抗VEGF治疗DR/DME的原则及建议（表12)。  
 续表
@@ -73,6 +73,6 @@ ICO 推荐的 DME 治疗流程见图 33。
 # 41.糖尿病黄斑水肿治疗专家共识建议的 DME治疗流程  
 欧洲国家的眼科学者参加的DME治疗研究达成了糖尿病黄斑水肿治疗专家共识，结合DME的原则及建议，推荐的DME治疗流程（图36)。  
 # 有临床意义的DME治疗流程建议  
-有临床意义的DME且累及黄斑中心凹者首选抗VEGF治疗，每月一次，连续6次，OCT检查黄斑水肿没有消退，没有黄斑牵弓可选择局部或格栅光凝，如黄斑水肿仍然没有改善，加用曲安奈德玻璃体腔注射，每$4\sim6$个月一次，仍存在黄斑水肿者可选择玻璃体手术。如黄斑激光治疗后水肿好转，可将抗VEGF治疗改为按需治疗。  
+有临床意义的DME且累及黄斑中心凹者首选抗VEGF治疗，每月一次，连续6次，OCT检查黄斑水肿没有消退，没有黄斑牵弓可选择局部或格栅光凝，如黄斑水肿仍然没有改善，加用曲安奈德玻璃体腔注射，每$ 4\sim6$ 个月一次，仍存在黄斑水肿者可选择玻璃体手术。如黄斑激光治疗后水肿好转，可将抗VEGF治疗改为按需治疗。  
 2013年发表在《临床眼科杂志》上的有临床意义的DME治疗流程 (Stewart MW.Critical appraisal of ranibizumab in the treatment of diabetic macular edema.Clin Ophthalmol,2013，7:1257- 1267.）（图37） :  
 图37有临床意义的DME治疗流程  

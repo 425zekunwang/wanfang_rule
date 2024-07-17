@@ -9,19 +9,19 @@
 在我国的《肝衰竭诊疗指南》中，根据病理组织学  
 肝衰竭诊断标准在我国从无到有003  
 特征和病情的发展速度，肝衰竭被分为 4  类： 急性肝衰竭 （acute liver failure，ALF）、亚急性肝衰竭（subacute liver failure，SALF）、慢加急性肝衰竭（acute-on-chronic liver failure，ACLF）和慢性肝衰竭（chronic liver failure，CLF）（表1）。  
-（1）急性肝衰竭：急性起病，2 周内出现Ⅱ度及以上肝性脑病（按Ⅳ度分类法划分）并有以下表现者：$\textcircled{1}$极度乏力，有明显厌食、腹胀、恶心、呕吐等严重的消化道症状；$\textcircled{2}$短期内黄疸进行性加深；$\textcircled{3}$出血倾向明显，血浆凝血酶原活动度（prothrombin time activity，PTA）$\leqslant40\%$[ 国际标准化比值$(\mathrm{{INR})\ \geqslant1.5}]$，且排除其他原因；$\textcircled{4}$肝脏进行性缩小。  
-（2）亚急性肝衰竭：起病较急，$2\sim26$ 周出现以下表现者：$\textcircled{1}$极度乏力，有明显的消化道症状；$\textcircled{2}$黄疸迅速加深，血清总胆红素（TBil）大于正常值上限10 倍或每日上升$\geqslant17.1mu\mathrm{mol}/\mathrm{L}$ ；$\textcircled{3}$伴或不伴肝性脑病；$\textcircled{4}$出血倾向明显，$\mathrm{PTA}\leqslant40\%$（$(\mathrm{INR}\geqslant1.5)$）并排除其他原因者。  
-（3）慢加急性肝衰竭：在慢性肝病基础上，短期内发生急性或亚急性肝功能失代偿的临床症候群者，表现为：$\textcircled{1}$极度乏力，有明显的消化道症状；$\textcircled{2}$黄疸迅速加深，TBil 大于正常值上限10 倍或每日上升$\geqslant17.1mu\mathrm{mol}/\mathrm{L}$ ；  
+（1）急性肝衰竭：急性起病，2 周内出现Ⅱ度及以上肝性脑病（按Ⅳ度分类法划分）并有以下表现者：$ \textcircled{1}$    极度乏力，有明显厌食、腹胀、恶心、呕吐等严重的消化道症状；$ \textcircled{2}$    短期内黄疸进行性加深；$ \textcircled{3}$    出血倾向明显，血浆凝血酶原活动度（prothrombin time activity，PTA）$ \leqslant40\%$ [ 国际标准化比值$ (\mathrm{{INR})\ \geqslant1.5}]$ ，且排除其他原因；$ \textcircled{4}$    肝脏进行性缩小。  
+（2）亚急性肝衰竭：起病较急，$ 2\sim26$  周出现以下表现者：$ \textcircled{1}$    极度乏力，有明显的消化道症状；$ \textcircled{2}$    黄疸迅速加深，血清总胆红素（TBil）大于正常值上限10 倍或每日上升$ \geqslant17.1mu\mathrm{mol}/\mathrm{L}$     ；$ \textcircled{3}$    伴或不伴肝性脑病；$ \textcircled{4}$    出血倾向明显，$ \mathrm{PTA}\leqslant40\%$ （$ (\mathrm{INR}\geqslant1.5)$ ）并排除其他原因者。  
+（3）慢加急性肝衰竭：在慢性肝病基础上，短期内发生急性或亚急性肝功能失代偿的临床症候群者，表现为：$ \textcircled{1}$    极度乏力，有明显的消化道症状；$ \textcircled{2}$    黄疸迅速加深，TBil 大于正常值上限10 倍或每日上升$ \geqslant17.1mu\mathrm{mol}/\mathrm{L}$     ；  
 # 004中国医学临床百家丛书肝衰竭新进展  
-$\textcircled{3}$出血倾向，$\mathrm{PTA}\leqslant40\%$（$\mathrm{INR}\geqslant1.5)$），并排除其他原因者；$\textcircled{4}$失代偿性腹水；$\mathcal{S}$伴或不伴有肝性脑病。  
-（4）慢性肝衰竭：在肝硬化基础上，肝功能进行性减退和失代偿：$\textcircled{1}$TBil 明显升高；$\textcircled{2}$白蛋白明显降低；$\textcircled{3}$出血倾向明显，$\mathrm{PTA}\leqslant40\%$（$[\mathrm{INR}\geqslant1.5)$），并排除其他原因者；$\textcircled{4}$有腹水或门静脉高压等表现；$\mathcal{S}$肝性脑病。  
+$ \textcircled{3}$    出血倾向，$ \mathrm{PTA}\leqslant40\%$ （$ \mathrm{INR}\geqslant1.5)$ ），并排除其他原因者；$ \textcircled{4}$    失代偿性腹水；$ \mathcal{S}$    伴或不伴有肝性脑病。  
+（4）慢性肝衰竭：在肝硬化基础上，肝功能进行性减退和失代偿：$ \textcircled{1}$    TBil 明显升高；$ \textcircled{2}$    白蛋白明显降低；$ \textcircled{3}$    出血倾向明显，$ \mathrm{PTA}\leqslant40\%$ （$ [\mathrm{INR}\geqslant1.5)$ ），并排除其他原因者；$ \textcircled{4}$    有腹水或门静脉高压等表现；$ \mathcal{S}$    肝性脑病。  
 3.  根据临床表现的严重程度，亚急性肝衰 竭和慢加急性肝衰竭可分为早期、中期和晚期  
-（1）早期：极度乏力，并有明显厌食、呕吐和腹胀等严重的消化道症状； 黄疸进行性加深（ $\mathrm{(TBi)} \geqslant 171 \mu \mathrm{mol/L}$
-  或 每日上升$\geqslant17.1mu\mathrm{mol}/\mathrm{L})$）；有出血倾向，$30\%<\mathrm{PTA}\leqslant40\%$ $(1.5\leqslant\mathrm{INR}<1.9)$）；未出现肝性脑病或其他并发症。  
+（1）早期：极度乏力，并有明显厌食、呕吐和腹胀等严重的消化道症状； 黄疸进行性加深（ $ \mathrm{(TBi)} \geqslant 171 \mu \mathrm{mol/L}$    
+  或 每日上升$ \geqslant17.1mu\mathrm{mol}/\mathrm{L})$ ）；有出血倾向，$ 30\%<\mathrm{PTA}\leqslant40\%$  $ (1.5\leqslant\mathrm{INR}<1.9)$ ）；未出现肝性脑病或其他并发症。  
 2）中期：在肝衰竭早期的表现基础上，病情进一步肝衰竭诊断标准在我国从无到有005  
-发展，出现以下两条之一者：$\textcircled{1}$出现Ⅱ度以下肝性脑病和/或明显腹水、感染。$\textcircled{2}$出血倾向明显（有出血点或瘀斑），且$20\%<\mathrm{PTA}\leqslant30\%$（$(1.9\leqslant\mathrm{INR}<2.6)$。  
-（3）晚期：在肝衰竭中期的表现基础上，病情进一步加重，有严重出血倾向（有注射部位瘀斑等），$\mathrm{PTA}\leqslant20\%$ $(\mathrm{INR}\geqslant2.6)$），并出现以下四条之一者：$\textcircled{1}$肝肾综合征；$\textcircled{2}$上 消化道大出血；$\textcircled{3}$严重感染；$\textcircled{4}$Ⅱ度以上肝性脑病。  
-考虑到一旦发生肝衰竭，治疗极其困难，病死率高，故对于出现以下肝衰竭前期临床特征的患者，就应高度重视，进行积极处理：$\textcircled{1}$极度乏力，并有明显厌食、呕吐和腹胀等严重的消化道症状；$\textcircled{2}$黄疸升高（$(51mu\mathrm{mol}/\mathrm{L}\leqslant$$\mathrm{TBi}\leqslant171mu\mathrm{mol}/\mathrm{L}\rangle$），且每日上升$\geqslant17.1mu\mathrm{mol}/\mathrm{L}$；$\textcircled{3}$有出血倾向，$40\%<\mathrm{PTA}\leqslant50\%$（$(1.5<\mathrm{INR}\leqslant1.6)$。  
+发展，出现以下两条之一者：$ \textcircled{1}$    出现Ⅱ度以下肝性脑病和/或明显腹水、感染。$ \textcircled{2}$    出血倾向明显（有出血点或瘀斑），且$ 20\%<\mathrm{PTA}\leqslant30\%$ （$ (1.9\leqslant\mathrm{INR}<2.6)$ 。  
+（3）晚期：在肝衰竭中期的表现基础上，病情进一步加重，有严重出血倾向（有注射部位瘀斑等），$ \mathrm{PTA}\leqslant20\%$  $ (\mathrm{INR}\geqslant2.6)$ ），并出现以下四条之一者：$ \textcircled{1}$    肝肾综合征；$ \textcircled{2}$    上 消化道大出血；$ \textcircled{3}$    严重感染；$ \textcircled{4}$    Ⅱ度以上肝性脑病。  
+考虑到一旦发生肝衰竭，治疗极其困难，病死率高，故对于出现以下肝衰竭前期临床特征的患者，就应高度重视，进行积极处理：$ \textcircled{1}$    极度乏力，并有明显厌食、呕吐和腹胀等严重的消化道症状；$ \textcircled{2}$    黄疸升高（$ (51mu\mathrm{mol}/\mathrm{L}\leqslant$  $ \mathrm{TBi}\leqslant171mu\mathrm{mol}/\mathrm{L}\rangle$ ），且每日上升$ \geqslant17.1mu\mathrm{mol}/\mathrm{L}$    ；$ \textcircled{3}$    有出血倾向，$ 40\%<\mathrm{PTA}\leqslant50\%$ （$ (1.5<\mathrm{INR}\leqslant1.6)$ 。  
 # 4.  作为一种功能性诊断，肝衰竭的临床诊 断应包括病因、临床类型和分期  
 肝衰竭不是一个独立的临床疾病，而是一种功能性诊断。在临床实际应用中，完整的诊断应包括病因、临床类型及分期，建议按照以下格式书写，例如：  
 （1）药物性肝炎  
