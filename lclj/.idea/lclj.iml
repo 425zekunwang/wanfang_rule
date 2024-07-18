@@ -11,5 +11,10 @@
     <orderEntry type="module" module-name="39net" />
     <orderEntry type="module" module-name="wanfang" />
     <orderEntry type="module" module-name="hjb" />
+    <orderEntry type="module" module-name="xiaohetongxue" />
+    <orderEntry type="module" module-name="xywy" />
+    <orderEntry type="module" module-name="fh21" />
+    <orderEntry type="module" module-name="yaopingtong" />
+    <orderEntry type="module" module-name="zhonggongjiaoyu" />
   </component>
 </module>
